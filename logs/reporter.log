@@ -1,0 +1,1206 @@
+2024-04-25T06:53:44.892Z - info: Initializing jsreport (version: 4.3.1, configuration file: jsreport.config.json, nodejs: 21.6.2)
+2024-04-25T06:53:44.894Z - info: Searching for available extensions in /home/haphuthinh/Workplace/Why.soft/jsreportapp/
+2024-04-25T06:53:44.896Z - info: Extensions location cache not found, crawling directories
+2024-04-25T06:53:45.072Z - info: Found 35 extension(s)
+2024-04-25T06:53:45.116Z - info: Using extension base@4.0.0
+2024-04-25T06:53:45.119Z - info: Using extension child-templates@4.1.0
+2024-04-25T06:53:45.122Z - info: Using extension cli@4.0.4
+2024-04-25T06:53:45.122Z - info: Using extension components@4.0.0
+2024-04-25T06:53:45.123Z - info: Using extension data@4.1.0
+2024-04-25T06:53:45.124Z - info: Using extension express@4.1.1
+2024-04-25T06:53:45.262Z - info: Using extension freeze@4.0.0
+2024-04-25T06:53:45.263Z - info: Using extension fs-store@4.0.3
+2024-04-25T06:53:45.319Z - info: Using extension handlebars@4.0.1
+2024-04-25T06:53:45.320Z - info: Using extension import-export@4.0.3
+2024-04-25T06:53:45.326Z - info: Using extension jsrender@4.0.0
+2024-04-25T06:53:45.327Z - info: Using extension licensing@4.0.2
+2024-04-25T06:53:45.328Z - info: Using extension localization@4.0.1
+2024-04-25T06:53:45.328Z - info: Using extension npm@4.0.0
+2024-04-25T06:53:45.329Z - info: Using extension pdf-utils@4.1.1
+2024-04-25T06:53:45.330Z - info: Using extension reports@4.1.1
+2024-04-25T06:53:45.331Z - info: Using extension tags@4.0.1
+2024-04-25T06:53:45.332Z - info: Using extension text@4.0.0
+2024-04-25T06:53:45.332Z - info: Using extension version-control@4.0.0
+2024-04-25T06:53:45.336Z - info: Using extension assets@4.1.0
+2024-04-25T06:53:45.341Z - info: Using extension authorization@4.0.0
+2024-04-25T06:53:45.343Z - info: Using extension browser-client@4.1.0
+2024-04-25T06:53:45.344Z - info: Using extension chrome-pdf@4.1.0
+2024-04-25T06:53:45.346Z - info: Using extension docx@4.2.1
+2024-04-25T06:53:45.347Z - info: Using extension html-to-xlsx@4.1.1
+2024-04-25T06:53:45.537Z - info: html-to-xlsx detected chrome as available html engine
+2024-04-25T06:53:45.537Z - info: Using extension pptx@4.2.0
+2024-04-25T06:53:45.538Z - info: Using extension scheduling@4.0.0
+2024-04-25T06:53:45.555Z - info: Using extension scripts@4.1.0
+2024-04-25T06:53:45.556Z - info: Using extension static-pdf@4.1.0
+2024-04-25T06:53:45.556Z - info: Using extension studio@4.1.0
+2024-04-25T06:53:45.597Z - info: Using extension xlsx@4.1.0
+2024-04-25T06:53:45.599Z - info: Using extension public-templates@4.0.0
+2024-04-25T06:53:45.600Z - info: Using extension sample-template@4.0.0
+2024-04-25T06:53:45.601Z - info: Using extension studio-theme-dark@4.0.0
+2024-04-25T06:53:45.602Z - info: Code sandboxing is disabled, users can potentially penetrate the local system if you allow code from external users to be part of your reports
+2024-04-25T06:53:45.602Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2024-04-25T06:53:45.602Z - info: Using fs provider for template store.
+2024-04-25T06:53:45.606Z - info: fs store is persisting using fs for /home/haphuthinh/Workplace/Why.soft/jsreportapp/data
+2024-04-25T06:53:45.617Z - info: fs store is loading data
+2024-04-25T06:53:45.621Z - info: fs store is initialized successfully
+2024-04-25T06:53:45.631Z - info: Creating default express app.
+2024-04-25T06:53:45.649Z - info: jsreport server successfully started on http port: 5488
+2024-04-25T06:53:45.657Z - info: Verifying license key free
+2024-04-25T06:53:45.658Z - info: Using free license
+2024-04-25T06:53:45.670Z - info: Migrating templates chrome settings (waitForNetworkIddle -> waitForNetworkIdle)
+2024-04-25T06:53:45.672Z - info: Migration successful
+2024-04-25T06:53:45.724Z - info: Initializing worker threads
+2024-04-25T06:53:45.832Z - info: 2 worker threads initialized in 108ms
+2024-04-25T06:53:45.833Z - info: Starting temp files cleanup with 180000ms threshold
+2024-04-25T06:53:45.833Z - info: reporter initialized
+2024-04-25T06:57:22.984Z - info: Render request 1 queued for execution and waiting for available worker rootId=p9f6xtjnevsxu7r, id=p9f6xtjnevsxu7r
+2024-04-25T06:57:23.026Z - info: Starting rendering request 1 rootId=p9f6xtjnevsxu7r, id=p9f6xtjnevsxu7r
+2024-04-25T06:57:23.026Z - info: Rendering template { name: demo-report, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=p9f6xtjnevsxu7r, id=p9f6xtjnevsxu7r
+2024-04-25T06:57:24.138Z - info: Rendering request 1 finished in 1155 ms rootId=p9f6xtjnevsxu7r, id=p9f6xtjnevsxu7r
+2024-04-25T06:57:39.108Z - info: Render request 2 queued for execution and waiting for available worker rootId=occn2ypchyye6n1, id=occn2ypchyye6n1
+2024-04-25T06:57:39.135Z - info: Starting rendering request 2 rootId=occn2ypchyye6n1, id=occn2ypchyye6n1
+2024-04-25T06:57:39.135Z - info: Rendering template { name: demo-report, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=occn2ypchyye6n1, id=occn2ypchyye6n1
+2024-04-25T06:57:39.851Z - info: Rendering request 2 finished in 743 ms rootId=occn2ypchyye6n1, id=occn2ypchyye6n1
+2024-04-25T07:00:25.269Z - info: Render request 3 queued for execution and waiting for available worker rootId=20kubjfks03qlvy, id=20kubjfks03qlvy
+2024-04-25T07:00:25.276Z - info: Starting rendering request 3 rootId=20kubjfks03qlvy, id=20kubjfks03qlvy
+2024-04-25T07:00:25.276Z - info: Rendering template { name: demo-report, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=20kubjfks03qlvy, id=20kubjfks03qlvy
+2024-04-25T07:00:25.360Z - info: Rendering request 3 finished in 90 ms rootId=20kubjfks03qlvy, id=20kubjfks03qlvy
+2024-04-25T07:01:38.151Z - info: Render request 4 queued for execution and waiting for available worker rootId=sqbk2fb5pbr8l8l, id=sqbk2fb5pbr8l8l
+2024-04-25T07:01:38.157Z - info: Starting rendering request 4 rootId=sqbk2fb5pbr8l8l, id=sqbk2fb5pbr8l8l
+2024-04-25T07:01:38.157Z - info: Rendering template { name: demo-report, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=sqbk2fb5pbr8l8l, id=sqbk2fb5pbr8l8l
+2024-04-25T07:01:38.261Z - info: Rendering request 4 finished in 109 ms rootId=sqbk2fb5pbr8l8l, id=sqbk2fb5pbr8l8l
+2024-04-25T07:03:55.357Z - error: Error when processing OData POST: /odata/assets Error: Entity name can not be empty
+    at module.exports (/home/haphuthinh/Workplace/Why.soft/jsreportapp/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at module.exports (/home/haphuthinh/Workplace/Why.soft/jsreportapp/node_modules/@jsreport/jsreport-core/lib/main/validateEntityName.js:26:11)
+    at Object.insert (/home/haphuthinh/Workplace/Why.soft/jsreportapp/node_modules/@jsreport/jsreport-core/lib/main/store/collection.js:123:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-04-25T07:05:11.366Z - info: Render request 5 queued for execution and waiting for available worker rootId=1jvyw55i28865i0, id=1jvyw55i28865i0
+2024-04-25T07:05:11.373Z - info: Starting rendering request 5 rootId=1jvyw55i28865i0, id=1jvyw55i28865i0
+2024-04-25T07:05:11.373Z - info: Rendering template { name: demo-report, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=1jvyw55i28865i0, id=1jvyw55i28865i0
+2024-04-25T07:05:11.453Z - info: Rendering request 5 finished in 85 ms rootId=1jvyw55i28865i0, id=1jvyw55i28865i0
+2024-04-25T07:08:00.529Z - info: Render request 6 queued for execution and waiting for available worker rootId=j0u0svavzx1qgha, id=j0u0svavzx1qgha
+2024-04-25T07:08:00.532Z - info: Starting rendering request 6 rootId=j0u0svavzx1qgha, id=j0u0svavzx1qgha
+2024-04-25T07:08:00.532Z - info: Rendering template { name: demo-report, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=j0u0svavzx1qgha, id=j0u0svavzx1qgha
+2024-04-25T07:08:00.604Z - info: Rendering request 6 finished in 75 ms rootId=j0u0svavzx1qgha, id=j0u0svavzx1qgha
+2024-04-25T07:08:55.539Z - info: Render request 7 queued for execution and waiting for available worker rootId=tks1javfkdh0mnz, id=tks1javfkdh0mnz
+2024-04-25T07:08:55.542Z - info: Starting rendering request 7 rootId=tks1javfkdh0mnz, id=tks1javfkdh0mnz
+2024-04-25T07:08:55.543Z - info: Rendering template { name: demo-report, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=tks1javfkdh0mnz, id=tks1javfkdh0mnz
+2024-04-25T07:08:55.604Z - info: Rendering request 7 finished in 66 ms rootId=tks1javfkdh0mnz, id=tks1javfkdh0mnz
+2024-04-25T07:13:35.488Z - info: Render request 8 queued for execution and waiting for available worker rootId=pz905c038mn7ev3, id=pz905c038mn7ev3
+2024-04-25T07:13:35.503Z - info: Starting rendering request 8 rootId=pz905c038mn7ev3, id=pz905c038mn7ev3
+2024-04-25T07:13:35.503Z - info: Rendering template { name: orders-main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=pz905c038mn7ev3, id=pz905c038mn7ev3
+2024-04-25T07:13:38.700Z - info: pdf-utils is starting pdf processing rootId=pz905c038mn7ev3, id=pz905c038mn7ev3
+2024-04-25T07:13:38.706Z - info: Starting rendering (child) request rootId=pz905c038mn7ev3, id=1mk8ogehghppyj1
+2024-04-25T07:13:38.706Z - info: Rendering template { name: orders-header, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=pz905c038mn7ev3, id=1mk8ogehghppyj1
+2024-04-25T07:13:38.881Z - info: Rendering (child) request finished in 3353 ms rootId=pz905c038mn7ev3, id=1mk8ogehghppyj1
+2024-04-25T07:13:38.882Z - info: pdf-utils pdf processing was finished rootId=pz905c038mn7ev3, id=pz905c038mn7ev3
+2024-04-25T07:13:38.882Z - info: Rendering request 8 finished in 3396 ms rootId=pz905c038mn7ev3, id=pz905c038mn7ev3
+2024-04-25T07:14:21.942Z - info: Render request 9 queued for execution and waiting for available worker rootId=ku44w0d97rn5va4, id=ku44w0d97rn5va4
+2024-04-25T07:14:21.953Z - info: Starting rendering request 9 rootId=ku44w0d97rn5va4, id=ku44w0d97rn5va4
+2024-04-25T07:14:21.954Z - info: Rendering template { name: sales-main, recipe: html-to-xlsx, engine: handlebars, preview: true } rootId=ku44w0d97rn5va4, id=ku44w0d97rn5va4
+2024-04-25T07:14:22.263Z - info: html-to-xlsx generation is starting rootId=ku44w0d97rn5va4, id=ku44w0d97rn5va4
+2024-04-25T07:14:22.964Z - info: html-to-xlsx generation was finished rootId=ku44w0d97rn5va4, id=ku44w0d97rn5va4
+2024-04-25T07:14:23.727Z - info: Rendering request 9 finished in 1784 ms rootId=ku44w0d97rn5va4, id=ku44w0d97rn5va4
+2024-04-25T07:14:43.282Z - info: Render request 10 queued for execution and waiting for available worker rootId=6ul93tgnzelke7j, id=6ul93tgnzelke7j
+2024-04-25T07:14:43.292Z - info: Starting rendering request 10 rootId=6ul93tgnzelke7j, id=6ul93tgnzelke7j
+2024-04-25T07:14:43.292Z - info: Rendering template { name: invoice-main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=6ul93tgnzelke7j, id=6ul93tgnzelke7j
+2024-04-25T07:14:43.485Z - info: Rendering request 10 finished in 203 ms rootId=6ul93tgnzelke7j, id=6ul93tgnzelke7j
+2024-04-25T07:14:52.906Z - info: Render request 11 queued for execution and waiting for available worker rootId=v9u8x35386lku7s, id=v9u8x35386lku7s
+2024-04-25T07:14:52.912Z - info: Starting rendering request 11 rootId=v9u8x35386lku7s, id=v9u8x35386lku7s
+2024-04-25T07:14:52.913Z - info: Rendering template { name: demo-report, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=v9u8x35386lku7s, id=v9u8x35386lku7s
+2024-04-25T07:14:52.988Z - info: Rendering request 11 finished in 82 ms rootId=v9u8x35386lku7s, id=v9u8x35386lku7s
+2024-04-25T07:17:45.962Z - info: Render request 12 queued for execution and waiting for available worker rootId=t7peulfduy2ktaa, id=t7peulfduy2ktaa
+2024-04-25T07:17:45.968Z - info: Starting rendering request 12 rootId=t7peulfduy2ktaa, id=t7peulfduy2ktaa
+2024-04-25T07:17:45.969Z - info: Rendering template { name: invoice, recipe: docx, engine: handlebars, preview: true } rootId=t7peulfduy2ktaa, id=t7peulfduy2ktaa
+2024-04-25T07:17:46.133Z - info: docx generation is starting rootId=t7peulfduy2ktaa, id=t7peulfduy2ktaa
+2024-04-25T07:17:46.133Z - info: Starting rendering (child) request rootId=t7peulfduy2ktaa, id=wrdf53rf68nfuz4
+2024-04-25T07:17:46.134Z - info: Rendering anonymous template { recipe: html, engine: handlebars } rootId=t7peulfduy2ktaa, id=wrdf53rf68nfuz4
+2024-04-25T07:17:46.229Z - info: Rendering (child) request finished in 192 ms rootId=t7peulfduy2ktaa, id=wrdf53rf68nfuz4
+2024-04-25T07:17:46.329Z - info: docx generation was finished rootId=t7peulfduy2ktaa, id=t7peulfduy2ktaa
+2024-04-25T07:17:47.137Z - info: Rendering request 12 finished in 1174 ms rootId=t7peulfduy2ktaa, id=t7peulfduy2ktaa
+2024-04-25T07:18:38.499Z - info: Render request 13 queued for execution and waiting for available worker rootId=79iw35rmq5ntjb9, id=79iw35rmq5ntjb9
+2024-04-25T07:18:38.507Z - info: Starting rendering request 13 rootId=79iw35rmq5ntjb9, id=79iw35rmq5ntjb9
+2024-04-25T07:18:38.507Z - info: Rendering template { name: invoice, recipe: docx, engine: handlebars, preview: true } rootId=79iw35rmq5ntjb9, id=79iw35rmq5ntjb9
+2024-04-25T07:18:38.649Z - info: docx generation is starting rootId=79iw35rmq5ntjb9, id=79iw35rmq5ntjb9
+2024-04-25T07:18:38.650Z - info: Starting rendering (child) request rootId=79iw35rmq5ntjb9, id=62ru4p00s7r2ucf
+2024-04-25T07:18:38.650Z - info: Rendering anonymous template { recipe: html, engine: handlebars } rootId=79iw35rmq5ntjb9, id=62ru4p00s7r2ucf
+2024-04-25T07:18:38.741Z - info: Rendering (child) request finished in 189 ms rootId=79iw35rmq5ntjb9, id=62ru4p00s7r2ucf
+2024-04-25T07:18:38.841Z - info: docx generation was finished rootId=79iw35rmq5ntjb9, id=79iw35rmq5ntjb9
+2024-04-25T07:18:39.615Z - info: Rendering request 13 finished in 1115 ms rootId=79iw35rmq5ntjb9, id=79iw35rmq5ntjb9
+2024-04-25T07:20:57.647Z - info: Verifying license key free
+2024-04-25T07:21:00.649Z - info: The licensing server was not reachable during instance startup. The instance now runs in the enterprise mode.
+2024-04-25T07:22:55.157Z - info: Render request 14 queued for execution and waiting for available worker rootId=7w5bahqzrs0hikm, id=7w5bahqzrs0hikm
+2024-04-25T07:22:55.163Z - info: Starting rendering request 14 rootId=7w5bahqzrs0hikm, id=7w5bahqzrs0hikm
+2024-04-25T07:22:55.163Z - info: Rendering template { name: invoice, recipe: docx, engine: handlebars, preview: false } rootId=7w5bahqzrs0hikm, id=7w5bahqzrs0hikm
+2024-04-25T07:22:55.215Z - info: docx generation is starting rootId=7w5bahqzrs0hikm, id=7w5bahqzrs0hikm
+2024-04-25T07:22:55.215Z - info: Starting rendering (child) request rootId=7w5bahqzrs0hikm, id=2ffogefry909vh1
+2024-04-25T07:22:55.215Z - info: Rendering anonymous template { recipe: html, engine: handlebars } rootId=7w5bahqzrs0hikm, id=2ffogefry909vh1
+2024-04-25T07:22:55.271Z - info: Rendering (child) request finished in 76 ms rootId=7w5bahqzrs0hikm, id=2ffogefry909vh1
+2024-04-25T07:22:55.272Z - info: docx generation was finished rootId=7w5bahqzrs0hikm, id=7w5bahqzrs0hikm
+2024-04-25T07:22:55.272Z - info: Rendering request 14 finished in 114 ms rootId=7w5bahqzrs0hikm, id=7w5bahqzrs0hikm
+2024-05-04T03:44:53.871Z - info: Initializing jsreport (version: 4.3.1, configuration file: jsreport.config.json, nodejs: 21.6.2)
+2024-05-04T03:44:53.873Z - info: Searching for available extensions in /home/haphuthinh/Workplace/School_project/airline-management.print/
+2024-05-04T03:44:53.874Z - info: Extensions location cache not found, crawling directories
+2024-05-04T03:44:54.023Z - info: Found 35 extension(s)
+2024-05-04T03:44:54.069Z - info: Using extension base@4.0.0
+2024-05-04T03:44:54.073Z - info: Using extension child-templates@4.1.0
+2024-05-04T03:44:54.075Z - info: Using extension cli@4.0.4
+2024-05-04T03:44:54.076Z - info: Using extension components@4.0.0
+2024-05-04T03:44:54.076Z - info: Using extension data@4.1.0
+2024-05-04T03:44:54.077Z - info: Using extension express@4.1.1
+2024-05-04T03:44:54.229Z - info: Using extension freeze@4.0.0
+2024-05-04T03:44:54.231Z - info: Using extension fs-store@4.0.3
+2024-05-04T03:44:54.311Z - info: Using extension handlebars@4.0.1
+2024-05-04T03:44:54.313Z - info: Using extension import-export@4.0.3
+2024-05-04T03:44:54.328Z - info: Using extension jsrender@4.0.0
+2024-05-04T03:44:54.331Z - info: Using extension licensing@4.0.2
+2024-05-04T03:44:54.334Z - info: Using extension localization@4.0.1
+2024-05-04T03:44:54.335Z - info: Using extension npm@4.0.0
+2024-05-04T03:44:54.340Z - info: Using extension pdf-utils@4.1.1
+2024-05-04T03:44:54.342Z - info: Using extension reports@4.1.1
+2024-05-04T03:44:54.346Z - info: Using extension tags@4.0.1
+2024-05-04T03:44:54.347Z - info: Using extension text@4.0.0
+2024-05-04T03:44:54.348Z - info: Using extension version-control@4.0.0
+2024-05-04T03:44:54.353Z - info: Using extension assets@4.1.0
+2024-05-04T03:44:54.368Z - info: Using extension authorization@4.0.0
+2024-05-04T03:44:54.370Z - info: Using extension browser-client@4.1.0
+2024-05-04T03:44:54.371Z - info: Using extension chrome-pdf@4.1.0
+2024-05-04T03:44:54.373Z - info: Using extension docx@4.2.1
+2024-05-04T03:44:54.374Z - info: Using extension html-to-xlsx@4.1.1
+2024-05-04T03:44:54.534Z - info: html-to-xlsx detected chrome as available html engine
+2024-05-04T03:44:54.535Z - info: Using extension pptx@4.2.0
+2024-05-04T03:44:54.536Z - info: Using extension scheduling@4.0.0
+2024-05-04T03:44:54.554Z - info: Using extension scripts@4.1.0
+2024-05-04T03:44:54.555Z - info: Using extension static-pdf@4.1.0
+2024-05-04T03:44:54.555Z - info: Using extension studio@4.1.0
+2024-05-04T03:44:54.592Z - info: Using extension xlsx@4.1.0
+2024-05-04T03:44:54.593Z - info: Using extension public-templates@4.0.0
+2024-05-04T03:44:54.594Z - info: Using extension sample-template@4.0.0
+2024-05-04T03:44:54.595Z - info: Using extension studio-theme-dark@4.0.0
+2024-05-04T03:44:54.596Z - info: Code sandboxing is disabled, users can potentially penetrate the local system if you allow code from external users to be part of your reports
+2024-05-04T03:44:54.596Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2024-05-04T03:44:54.596Z - info: Using fs provider for template store.
+2024-05-04T03:44:54.600Z - info: fs store is persisting using fs for /home/haphuthinh/Workplace/School_project/airline-management.print/data
+2024-05-04T03:44:54.610Z - info: fs store is loading data
+2024-05-04T03:44:54.621Z - info: fs store is initialized successfully
+2024-05-04T03:44:54.628Z - info: Creating default express app.
+2024-05-04T03:44:54.644Z - info: jsreport server successfully started on http port: 5488
+2024-05-04T03:44:54.645Z - info: Verifying license key free
+2024-05-04T03:44:56.125Z - info: Starting one month enterprise trial
+2024-05-04T03:44:56.129Z - info: Initializing worker threads
+2024-05-04T03:44:56.245Z - info: 2 worker threads initialized in 116ms
+2024-05-04T03:44:56.246Z - info: Starting temp files cleanup with 180000ms threshold
+2024-05-04T03:44:56.246Z - info: reporter initialized
+2024-05-04T03:53:47.968Z - error: Error when processing OData POST: /odata/assets Error: Entity name can not be empty
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/main/validateEntityName.js:26:11)
+    at Object.insert (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/main/store/collection.js:123:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-04T03:54:13.757Z - info: Render request 1 queued for execution and waiting for available worker rootId=kuc9nqeb3vq3w8d, id=kuc9nqeb3vq3w8d
+2024-05-04T03:54:13.810Z - info: Starting rendering request 1 rootId=kuc9nqeb3vq3w8d, id=kuc9nqeb3vq3w8d
+2024-05-04T03:54:13.811Z - info: Rendering template { name: ticket, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=kuc9nqeb3vq3w8d, id=kuc9nqeb3vq3w8d
+2024-05-04T03:54:14.193Z - warn: Error when processing render request 1
+(because) error when evaluating engine handlebars for template /ticket
+(because) missing helper: "getClassTypeInText"
+
+(sandbox.js line 13:18)
+Error: Missing helper: "getClassTypeInText"
+    at Object.<anonymous> (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/handlebars/dist/cjs/handlebars/helpers/helper-missing.js:19:13)
+    at Object.wrapper (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/handlebars/dist/cjs/handlebars/internal/wrapHelper.js:15:19)
+    at Object.main (eval at compile (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-handlebars/lib/handlebarsEngine.js:35:30), <anonymous>:14:126)
+    at main (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/handlebars/dist/cjs/handlebars/runtime.js:208:32)
+    at ret (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/handlebars/dist/cjs/handlebars/runtime.js:212:12)
+    at Object.execute (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-handlebars/lib/handlebarsEngine.js:80:14)
+    at Object.execute (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-handlebars/lib/worker.js:27:43)
+    at executionFn (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:257:40)
+    at sandbox.js:13:18
+    at async run (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/createSandbox.js:137:16)
+wrapped by:
+Error: Error when evaluating engine handlebars for template /ticket
+(because) missing helper: "getClassTypeInText"
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:345:33)
+    at async engine.engine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:146:14)
+    at async invokeRender (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:61:23)
+    at async WorkerReporter._render (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:148:7)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:227:24
+    at async processAndResponse (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=kuc9nqeb3vq3w8d, id=kuc9nqeb3vq3w8d
+2024-05-04T03:54:14.193Z - warn: Rendering request 1 finished with error in 438 ms rootId=kuc9nqeb3vq3w8d, id=kuc9nqeb3vq3w8d
+2024-05-04T03:54:33.107Z - info: Render request 2 queued for execution and waiting for available worker rootId=5k6mp17vxz1xuqk, id=5k6mp17vxz1xuqk
+2024-05-04T03:54:33.141Z - info: Starting rendering request 2 rootId=5k6mp17vxz1xuqk, id=5k6mp17vxz1xuqk
+2024-05-04T03:54:33.141Z - info: Rendering template { name: ticket, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=5k6mp17vxz1xuqk, id=5k6mp17vxz1xuqk
+2024-05-04T03:54:34.971Z - warn: Error when processing render request 2
+(because) error when evaluating engine handlebars for template /ticket
+(because) "barcode" helper call failed
+(because) bwip-js: bar code text not specified.
+
+(sandbox.js line 6:30)
+
+  4 |
+  5 | async function barcode(text) {
+> 6 |     const png = await bwipjs.toBuffer({ 
+    |                              ^
+  7 |         bcid:'pdf417', 
+  8 |         text,
+  9 |         columns: 2,
+
+
+ReferenceError: bwip-js: bar code text not specified.
+    at _Render (/tmp/jsreport/npm/modules/bwip-js@3.0.4/node_modules/bwip-js/dist/bwip-js-node.js:190:9)
+    at Object.ToBuffer [as toBuffer] (/tmp/jsreport/npm/modules/bwip-js@3.0.4/node_modules/bwip-js/dist/bwip-js-node.js:90:10)
+    at Object.barcode (sandbox.js:6:30)
+    at Object.<anonymous> (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:404:23)
+    at Object.<anonymous> (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:382:27)
+    at Object.wrapper (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/handlebars/dist/cjs/handlebars/internal/wrapHelper.js:15:19)
+    at Object.main (eval at compile (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-handlebars/lib/handlebarsEngine.js:35:30), <anonymous>:18:104)
+    at main (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/handlebars/dist/cjs/handlebars/runtime.js:208:32)
+    at ret (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/handlebars/dist/cjs/handlebars/runtime.js:212:12)
+    at Object.execute (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-handlebars/lib/handlebarsEngine.js:80:14)
+wrapped by:
+Error: "barcode" helper call failed
+(because) bwip-js: bar code text not specified.
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at getEnhancedHelperError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:400:54)
+    at /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:418:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:265:26
+    at async Promise.all (index 1)
+    at async executionFn (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:264:9)
+    at async run (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/createSandbox.js:137:16)
+    at async WorkerReporter.runInSandbox [as _runInSandbox] (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/runInSandbox.js:211:14)
+wrapped by:
+Error: Error when evaluating engine handlebars for template /ticket
+(because) "barcode" helper call failed
+(because) bwip-js: bar code text not specified.
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:345:33)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async engine.engine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:146:14)
+    at async invokeRender (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:61:23)
+    at async WorkerReporter._render (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:148:7)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:227:24
+    at async processAndResponse (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=5k6mp17vxz1xuqk, id=5k6mp17vxz1xuqk
+2024-05-04T03:54:34.972Z - warn: Rendering request 2 finished with error in 1866 ms rootId=5k6mp17vxz1xuqk, id=5k6mp17vxz1xuqk
+2024-05-04T03:59:02.165Z - info: Render request 3 queued for execution and waiting for available worker rootId=demka0hl90kz2ry, id=demka0hl90kz2ry
+2024-05-04T03:59:02.173Z - info: Starting rendering request 3 rootId=demka0hl90kz2ry, id=demka0hl90kz2ry
+2024-05-04T03:59:02.173Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=demka0hl90kz2ry, id=demka0hl90kz2ry
+2024-05-04T03:59:02.218Z - warn: Error when processing render request 3
+(because) error when evaluating engine handlebars for template /print-ticket/main
+(because) "barcode" helper call failed
+(because) bwip-js: bar code text not specified.
+
+(sandbox.js line 6:30)
+
+  4 |
+  5 | async function barcode(text) {
+> 6 |     const png = await bwipjs.toBuffer({ 
+    |                              ^
+  7 |         bcid:'pdf417', 
+  8 |         text,
+  9 |         columns: 2,
+
+
+ReferenceError: bwip-js: bar code text not specified.
+    at _Render (/tmp/jsreport/npm/modules/bwip-js@3.0.4/node_modules/bwip-js/dist/bwip-js-node.js:190:9)
+    at Object.ToBuffer [as toBuffer] (/tmp/jsreport/npm/modules/bwip-js@3.0.4/node_modules/bwip-js/dist/bwip-js-node.js:90:10)
+    at Object.barcode (sandbox.js:6:30)
+    at Object.<anonymous> (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:404:23)
+    at Object.<anonymous> (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:382:27)
+    at Object.wrapper (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/handlebars/dist/cjs/handlebars/internal/wrapHelper.js:15:19)
+    at Object.main (eval at compile (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-handlebars/lib/handlebarsEngine.js:35:30), <anonymous>:18:104)
+    at main (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/handlebars/dist/cjs/handlebars/runtime.js:208:32)
+    at ret (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/handlebars/dist/cjs/handlebars/runtime.js:212:12)
+    at Object.execute (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-handlebars/lib/handlebarsEngine.js:80:14)
+wrapped by:
+Error: "barcode" helper call failed
+(because) bwip-js: bar code text not specified.
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at getEnhancedHelperError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:400:54)
+    at /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:418:15
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:265:26
+    at async Promise.all (index 1)
+    at async executionFn (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:264:9)
+    at async run (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/createSandbox.js:137:16)
+    at async WorkerReporter.runInSandbox [as _runInSandbox] (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/runInSandbox.js:211:14)
+    at async executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:322:14)
+wrapped by:
+Error: Error when evaluating engine handlebars for template /print-ticket/main
+(because) "barcode" helper call failed
+(because) bwip-js: bar code text not specified.
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:345:33)
+    at async engine.engine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:146:14)
+    at async invokeRender (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:61:23)
+    at async WorkerReporter._render (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:148:7)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:227:24
+    at async processAndResponse (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=demka0hl90kz2ry, id=demka0hl90kz2ry
+2024-05-04T03:59:02.218Z - warn: Rendering request 3 finished with error in 52 ms rootId=demka0hl90kz2ry, id=demka0hl90kz2ry
+2024-05-04T03:59:39.851Z - info: Render request 4 queued for execution and waiting for available worker rootId=epkndz1rhlembyx, id=epkndz1rhlembyx
+2024-05-04T03:59:39.859Z - info: Starting rendering request 4 rootId=epkndz1rhlembyx, id=epkndz1rhlembyx
+2024-05-04T03:59:39.859Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=epkndz1rhlembyx, id=epkndz1rhlembyx
+2024-05-04T03:59:39.876Z - warn: Error when processing render request 4
+(because) error when evaluating engine handlebars for template /print-ticket/main
+(because) "barcode" helper call failed
+(because) bwip-js: bar code text not specified.
+
+(sandbox.js line 7:30)
+
+   5 | async function barcode(text) {
+   6 |     console.log(text)
+>  7 |     const png = await bwipjs.toBuffer({ 
+     |                              ^
+   8 |         bcid:'pdf417', 
+   9 |         text,
+  10 |         columns: 2,
+
+
+ReferenceError: bwip-js: bar code text not specified.
+    at _Render (/tmp/jsreport/npm/modules/bwip-js@3.0.4/node_modules/bwip-js/dist/bwip-js-node.js:190:9)
+    at Object.ToBuffer [as toBuffer] (/tmp/jsreport/npm/modules/bwip-js@3.0.4/node_modules/bwip-js/dist/bwip-js-node.js:90:10)
+    at Object.barcode (sandbox.js:7:30)
+    at Object.<anonymous> (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:404:23)
+    at Object.<anonymous> (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:382:27)
+    at Object.wrapper (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/handlebars/dist/cjs/handlebars/internal/wrapHelper.js:15:19)
+    at Object.main (eval at compile (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-handlebars/lib/handlebarsEngine.js:35:30), <anonymous>:18:104)
+    at main (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/handlebars/dist/cjs/handlebars/runtime.js:208:32)
+    at ret (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/handlebars/dist/cjs/handlebars/runtime.js:212:12)
+    at Object.execute (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-handlebars/lib/handlebarsEngine.js:80:14)
+wrapped by:
+Error: "barcode" helper call failed
+(because) bwip-js: bar code text not specified.
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at getEnhancedHelperError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:400:54)
+    at /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:418:15
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:265:26
+    at async Promise.all (index 1)
+    at async executionFn (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:264:9)
+    at async run (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/createSandbox.js:137:16)
+    at async WorkerReporter.runInSandbox [as _runInSandbox] (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/runInSandbox.js:211:14)
+    at async executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:322:14)
+wrapped by:
+Error: Error when evaluating engine handlebars for template /print-ticket/main
+(because) "barcode" helper call failed
+(because) bwip-js: bar code text not specified.
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:345:33)
+    at async engine.engine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:146:14)
+    at async invokeRender (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:61:23)
+    at async WorkerReporter._render (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:148:7)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:227:24
+    at async processAndResponse (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=epkndz1rhlembyx, id=epkndz1rhlembyx
+2024-05-04T03:59:39.876Z - warn: Rendering request 4 finished with error in 25 ms rootId=epkndz1rhlembyx, id=epkndz1rhlembyx
+2024-05-04T04:00:32.873Z - info: Render request 5 queued for execution and waiting for available worker rootId=0feof1y41cyzrxy, id=0feof1y41cyzrxy
+2024-05-04T04:00:32.884Z - info: Starting rendering request 5 rootId=0feof1y41cyzrxy, id=0feof1y41cyzrxy
+2024-05-04T04:00:32.884Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=0feof1y41cyzrxy, id=0feof1y41cyzrxy
+2024-05-04T04:00:32.934Z - warn: Error when processing render request 5
+(because) error when evaluating engine handlebars for template /print-ticket/main
+(because) "asset" helper call failed
+(because) asset ./styles/style.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/styles/style.css
+(because) eNOENT: no such file or directory, open '/home/haphuthinh/Workplace/School_project/airline-management.print/styles/style.css'
+
+(system-helpers.js line 293:20)
+
+  291 |
+  292 |   const jsreport = require('jsreport-proxy')
+> 293 |   const assetVal = await jsreport.assets.read(path, encoding)
+      |                    ^
+  294 |   return assetVal
+  295 | }
+  296 |
+
+
+Error: Asset ./styles/style.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/styles/style.css
+(because) eNOENT: no such file or directory, open '/home/haphuthinh/Workplace/School_project/airline-management.print/styles/style.css'
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at readAsset (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-assets/lib/assetsShared.js:138:24)
+    at async Object.read (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-assets/lib/worker.js:136:19)
+    at async Object.asset (system-helpers.js:293:20)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:265:26
+    at async Promise.all (index 0)
+    at async executionFn (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:264:9)
+    at async run (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/createSandbox.js:137:16)
+    at async WorkerReporter.runInSandbox [as _runInSandbox] (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/runInSandbox.js:211:14)
+wrapped by:
+Error: "asset" helper call failed
+(because) asset ./styles/style.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/styles/style.css
+(because) eNOENT: no such file or directory, open '/home/haphuthinh/Workplace/School_project/airline-management.print/styles/style.css'
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at getEnhancedHelperError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:400:54)
+    at /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:418:15
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:265:26
+    at async Promise.all (index 0)
+    at async executionFn (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:264:9)
+    at async run (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/createSandbox.js:137:16)
+    at async WorkerReporter.runInSandbox [as _runInSandbox] (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/runInSandbox.js:211:14)
+    at async executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:322:14)
+wrapped by:
+Error: Error when evaluating engine handlebars for template /print-ticket/main
+(because) "asset" helper call failed
+(because) asset ./styles/style.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/styles/style.css
+(because) eNOENT: no such file or directory, open '/home/haphuthinh/Workplace/School_project/airline-management.print/styles/style.css'
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:345:33)
+    at async engine.engine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:146:14)
+    at async invokeRender (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:61:23)
+    at async WorkerReporter._render (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:148:7)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:227:24
+    at async processAndResponse (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=0feof1y41cyzrxy, id=0feof1y41cyzrxy
+2024-05-04T04:00:32.934Z - warn: Rendering request 5 finished with error in 62 ms rootId=0feof1y41cyzrxy, id=0feof1y41cyzrxy
+2024-05-04T04:01:14.563Z - info: Render request 6 queued for execution and waiting for available worker rootId=jl0o82l1mx1py3r, id=jl0o82l1mx1py3r
+2024-05-04T04:01:14.571Z - info: Starting rendering request 6 rootId=jl0o82l1mx1py3r, id=jl0o82l1mx1py3r
+2024-05-04T04:01:14.572Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=jl0o82l1mx1py3r, id=jl0o82l1mx1py3r
+2024-05-04T04:01:14.623Z - warn: Error when processing render request 6
+(because) error when evaluating engine handlebars for template /print-ticket/main
+(because) "asset" helper call failed
+(because) asset .print-ticket/styles/style.css not found in the store and also not on the disk: Request to file /home/haphuthinh/Workplace/School_project/airline-management.print/.print-ticket/styles/style.css denied. Please allow it by setting config { "extensions": { "assets": { "allowedFiles": "**/foo.css" } } } or the more general { "extensions": { "assets": { "allowedFiles": "**/*.*" } } }
+
+(system-helpers.js line 293:20)
+
+  291 |
+  292 |   const jsreport = require('jsreport-proxy')
+> 293 |   const assetVal = await jsreport.assets.read(path, encoding)
+      |                    ^
+  294 |   return assetVal
+  295 | }
+  296 |
+
+
+Error: Asset .print-ticket/styles/style.css not found in the store and also not on the disk: Request to file /home/haphuthinh/Workplace/School_project/airline-management.print/.print-ticket/styles/style.css denied. Please allow it by setting config { "extensions": { "assets": { "allowedFiles": "**/foo.css" } } } or the more general { "extensions": { "assets": { "allowedFiles": "**/*.*" } } }
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at readAsset (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-assets/lib/assetsShared.js:138:24)
+    at async Object.read (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-assets/lib/worker.js:136:19)
+    at async Object.asset (system-helpers.js:293:20)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:265:26
+    at async Promise.all (index 0)
+    at async executionFn (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:264:9)
+    at async run (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/createSandbox.js:137:16)
+    at async WorkerReporter.runInSandbox [as _runInSandbox] (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/runInSandbox.js:211:14)
+wrapped by:
+Error: "asset" helper call failed
+(because) asset .print-ticket/styles/style.css not found in the store and also not on the disk: Request to file /home/haphuthinh/Workplace/School_project/airline-management.print/.print-ticket/styles/style.css denied. Please allow it by setting config { "extensions": { "assets": { "allowedFiles": "**/foo.css" } } } or the more general { "extensions": { "assets": { "allowedFiles": "**/*.*" } } }
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at getEnhancedHelperError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:400:54)
+    at /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:418:15
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:265:26
+    at async Promise.all (index 0)
+    at async executionFn (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:264:9)
+    at async run (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/createSandbox.js:137:16)
+    at async WorkerReporter.runInSandbox [as _runInSandbox] (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/runInSandbox.js:211:14)
+    at async executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:322:14)
+wrapped by:
+Error: Error when evaluating engine handlebars for template /print-ticket/main
+(because) "asset" helper call failed
+(because) asset .print-ticket/styles/style.css not found in the store and also not on the disk: Request to file /home/haphuthinh/Workplace/School_project/airline-management.print/.print-ticket/styles/style.css denied. Please allow it by setting config { "extensions": { "assets": { "allowedFiles": "**/foo.css" } } } or the more general { "extensions": { "assets": { "allowedFiles": "**/*.*" } } }
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:345:33)
+    at async engine.engine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:146:14)
+    at async invokeRender (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:61:23)
+    at async WorkerReporter._render (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:148:7)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:227:24
+    at async processAndResponse (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=jl0o82l1mx1py3r, id=jl0o82l1mx1py3r
+2024-05-04T04:01:14.623Z - warn: Rendering request 6 finished with error in 60 ms rootId=jl0o82l1mx1py3r, id=jl0o82l1mx1py3r
+2024-05-04T04:01:26.968Z - info: Render request 7 queued for execution and waiting for available worker rootId=nqdmcrgd1iek7f0, id=nqdmcrgd1iek7f0
+2024-05-04T04:01:26.976Z - info: Starting rendering request 7 rootId=nqdmcrgd1iek7f0, id=nqdmcrgd1iek7f0
+2024-05-04T04:01:26.977Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=nqdmcrgd1iek7f0, id=nqdmcrgd1iek7f0
+2024-05-04T04:01:27.031Z - warn: Error when processing render request 7
+(because) error when evaluating engine handlebars for template /print-ticket/main
+(because) "asset" helper call failed
+(because) asset ./print-ticket/styles/style.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/print-ticket/styles/style.css
+(because) eNOENT: no such file or directory, open '/home/haphuthinh/Workplace/School_project/airline-management.print/print-ticket/styles/style.css'
+
+(system-helpers.js line 293:20)
+
+  291 |
+  292 |   const jsreport = require('jsreport-proxy')
+> 293 |   const assetVal = await jsreport.assets.read(path, encoding)
+      |                    ^
+  294 |   return assetVal
+  295 | }
+  296 |
+
+
+Error: Asset ./print-ticket/styles/style.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/print-ticket/styles/style.css
+(because) eNOENT: no such file or directory, open '/home/haphuthinh/Workplace/School_project/airline-management.print/print-ticket/styles/style.css'
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at readAsset (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-assets/lib/assetsShared.js:138:24)
+    at async Object.read (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-assets/lib/worker.js:136:19)
+    at async Object.asset (system-helpers.js:293:20)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:265:26
+    at async Promise.all (index 0)
+    at async executionFn (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:264:9)
+    at async run (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/createSandbox.js:137:16)
+    at async WorkerReporter.runInSandbox [as _runInSandbox] (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/runInSandbox.js:211:14)
+wrapped by:
+Error: "asset" helper call failed
+(because) asset ./print-ticket/styles/style.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/print-ticket/styles/style.css
+(because) eNOENT: no such file or directory, open '/home/haphuthinh/Workplace/School_project/airline-management.print/print-ticket/styles/style.css'
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at getEnhancedHelperError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:400:54)
+    at /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:418:15
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:265:26
+    at async Promise.all (index 0)
+    at async executionFn (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:264:9)
+    at async run (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/createSandbox.js:137:16)
+    at async WorkerReporter.runInSandbox [as _runInSandbox] (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/runInSandbox.js:211:14)
+    at async executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:322:14)
+wrapped by:
+Error: Error when evaluating engine handlebars for template /print-ticket/main
+(because) "asset" helper call failed
+(because) asset ./print-ticket/styles/style.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/print-ticket/styles/style.css
+(because) eNOENT: no such file or directory, open '/home/haphuthinh/Workplace/School_project/airline-management.print/print-ticket/styles/style.css'
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:345:33)
+    at async engine.engine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:146:14)
+    at async invokeRender (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:61:23)
+    at async WorkerReporter._render (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:148:7)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:227:24
+    at async processAndResponse (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=nqdmcrgd1iek7f0, id=nqdmcrgd1iek7f0
+2024-05-04T04:01:27.032Z - warn: Rendering request 7 finished with error in 64 ms rootId=nqdmcrgd1iek7f0, id=nqdmcrgd1iek7f0
+2024-05-04T04:02:46.164Z - info: Render request 8 queued for execution and waiting for available worker rootId=3kafd490agn6dku, id=3kafd490agn6dku
+2024-05-04T04:02:46.175Z - info: Starting rendering request 8 rootId=3kafd490agn6dku, id=3kafd490agn6dku
+2024-05-04T04:02:46.175Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=3kafd490agn6dku, id=3kafd490agn6dku
+2024-05-04T04:02:46.217Z - warn: Error when processing render request 8
+(because) error when evaluating engine handlebars for template /print-ticket/main
+(because) "asset" helper call failed
+(because) asset ./data/print-ticket/styles/style.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/data/print-ticket/styles/style.css
+(because) eNOENT: no such file or directory, open '/home/haphuthinh/Workplace/School_project/airline-management.print/data/print-ticket/styles/style.css'
+
+(system-helpers.js line 293:20)
+
+  291 |
+  292 |   const jsreport = require('jsreport-proxy')
+> 293 |   const assetVal = await jsreport.assets.read(path, encoding)
+      |                    ^
+  294 |   return assetVal
+  295 | }
+  296 |
+
+
+Error: Asset ./data/print-ticket/styles/style.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/data/print-ticket/styles/style.css
+(because) eNOENT: no such file or directory, open '/home/haphuthinh/Workplace/School_project/airline-management.print/data/print-ticket/styles/style.css'
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at readAsset (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-assets/lib/assetsShared.js:138:24)
+    at async Object.read (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-assets/lib/worker.js:136:19)
+    at async Object.asset (system-helpers.js:293:20)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:265:26
+    at async Promise.all (index 0)
+    at async executionFn (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:264:9)
+    at async run (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/createSandbox.js:137:16)
+    at async WorkerReporter.runInSandbox [as _runInSandbox] (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/runInSandbox.js:211:14)
+wrapped by:
+Error: "asset" helper call failed
+(because) asset ./data/print-ticket/styles/style.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/data/print-ticket/styles/style.css
+(because) eNOENT: no such file or directory, open '/home/haphuthinh/Workplace/School_project/airline-management.print/data/print-ticket/styles/style.css'
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at getEnhancedHelperError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:400:54)
+    at /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:418:15
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:265:26
+    at async Promise.all (index 0)
+    at async executionFn (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:264:9)
+    at async run (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/createSandbox.js:137:16)
+    at async WorkerReporter.runInSandbox [as _runInSandbox] (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/runInSandbox.js:211:14)
+    at async executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:322:14)
+wrapped by:
+Error: Error when evaluating engine handlebars for template /print-ticket/main
+(because) "asset" helper call failed
+(because) asset ./data/print-ticket/styles/style.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/data/print-ticket/styles/style.css
+(because) eNOENT: no such file or directory, open '/home/haphuthinh/Workplace/School_project/airline-management.print/data/print-ticket/styles/style.css'
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:345:33)
+    at async engine.engine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:146:14)
+    at async invokeRender (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:61:23)
+    at async WorkerReporter._render (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:148:7)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:227:24
+    at async processAndResponse (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=3kafd490agn6dku, id=3kafd490agn6dku
+2024-05-04T04:02:46.217Z - warn: Rendering request 8 finished with error in 51 ms rootId=3kafd490agn6dku, id=3kafd490agn6dku
+2024-05-04T04:03:35.164Z - info: Render request 9 queued for execution and waiting for available worker rootId=db3rvm0jw26v3ej, id=db3rvm0jw26v3ej
+2024-05-04T04:03:35.173Z - info: Starting rendering request 9 rootId=db3rvm0jw26v3ej, id=db3rvm0jw26v3ej
+2024-05-04T04:03:35.173Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=db3rvm0jw26v3ej, id=db3rvm0jw26v3ej
+2024-05-04T04:03:35.220Z - warn: Error when processing render request 9
+(because) error when evaluating engine handlebars for template /print-ticket/main
+(because) "asset" helper call failed
+(because) asset ./data/styles/style.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/data/styles/style.css
+(because) eNOENT: no such file or directory, open '/home/haphuthinh/Workplace/School_project/airline-management.print/data/styles/style.css'
+
+(system-helpers.js line 293:20)
+
+  291 |
+  292 |   const jsreport = require('jsreport-proxy')
+> 293 |   const assetVal = await jsreport.assets.read(path, encoding)
+      |                    ^
+  294 |   return assetVal
+  295 | }
+  296 |
+
+
+Error: Asset ./data/styles/style.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/data/styles/style.css
+(because) eNOENT: no such file or directory, open '/home/haphuthinh/Workplace/School_project/airline-management.print/data/styles/style.css'
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at readAsset (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-assets/lib/assetsShared.js:138:24)
+    at async Object.read (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-assets/lib/worker.js:136:19)
+    at async Object.asset (system-helpers.js:293:20)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:265:26
+    at async Promise.all (index 0)
+    at async executionFn (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:264:9)
+    at async run (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/createSandbox.js:137:16)
+    at async WorkerReporter.runInSandbox [as _runInSandbox] (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/runInSandbox.js:211:14)
+wrapped by:
+Error: "asset" helper call failed
+(because) asset ./data/styles/style.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/data/styles/style.css
+(because) eNOENT: no such file or directory, open '/home/haphuthinh/Workplace/School_project/airline-management.print/data/styles/style.css'
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at getEnhancedHelperError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:400:54)
+    at /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:418:15
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:265:26
+    at async Promise.all (index 0)
+    at async executionFn (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:264:9)
+    at async run (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/createSandbox.js:137:16)
+    at async WorkerReporter.runInSandbox [as _runInSandbox] (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/runInSandbox.js:211:14)
+    at async executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:322:14)
+wrapped by:
+Error: Error when evaluating engine handlebars for template /print-ticket/main
+(because) "asset" helper call failed
+(because) asset ./data/styles/style.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/data/styles/style.css
+(because) eNOENT: no such file or directory, open '/home/haphuthinh/Workplace/School_project/airline-management.print/data/styles/style.css'
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:345:33)
+    at async engine.engine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:146:14)
+    at async invokeRender (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:61:23)
+    at async WorkerReporter._render (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:148:7)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:227:24
+    at async processAndResponse (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=db3rvm0jw26v3ej, id=db3rvm0jw26v3ej
+2024-05-04T04:03:35.220Z - warn: Rendering request 9 finished with error in 57 ms rootId=db3rvm0jw26v3ej, id=db3rvm0jw26v3ej
+2024-05-04T04:04:26.166Z - info: Render request 10 queued for execution and waiting for available worker rootId=elj1yougg2sw5u2, id=elj1yougg2sw5u2
+2024-05-04T04:04:26.173Z - info: Starting rendering request 10 rootId=elj1yougg2sw5u2, id=elj1yougg2sw5u2
+2024-05-04T04:04:26.174Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=elj1yougg2sw5u2, id=elj1yougg2sw5u2
+2024-05-04T04:04:26.209Z - warn: Error when processing render request 10
+(because) error when evaluating engine handlebars for template /print-ticket/main
+(because) "asset" helper call failed
+(because) asset ./data/styles/styles.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/data/styles/styles.css
+(because) eISDIR: illegal operation on a directory, read
+
+(system-helpers.js line 293:20)
+
+  291 |
+  292 |   const jsreport = require('jsreport-proxy')
+> 293 |   const assetVal = await jsreport.assets.read(path, encoding)
+      |                    ^
+  294 |   return assetVal
+  295 | }
+  296 |
+
+
+Error: Asset ./data/styles/styles.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/data/styles/styles.css
+(because) eISDIR: illegal operation on a directory, read
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at readAsset (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-assets/lib/assetsShared.js:138:24)
+    at async Object.read (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-assets/lib/worker.js:136:19)
+    at async Object.asset (system-helpers.js:293:20)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:265:26
+    at async Promise.all (index 0)
+    at async executionFn (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:264:9)
+    at async run (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/createSandbox.js:137:16)
+    at async WorkerReporter.runInSandbox [as _runInSandbox] (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/runInSandbox.js:211:14)
+wrapped by:
+Error: "asset" helper call failed
+(because) asset ./data/styles/styles.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/data/styles/styles.css
+(because) eISDIR: illegal operation on a directory, read
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at getEnhancedHelperError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:400:54)
+    at /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:418:15
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:265:26
+    at async Promise.all (index 0)
+    at async executionFn (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:264:9)
+    at async run (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/createSandbox.js:137:16)
+    at async WorkerReporter.runInSandbox [as _runInSandbox] (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/runInSandbox.js:211:14)
+    at async executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:322:14)
+wrapped by:
+Error: Error when evaluating engine handlebars for template /print-ticket/main
+(because) "asset" helper call failed
+(because) asset ./data/styles/styles.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/data/styles/styles.css
+(because) eISDIR: illegal operation on a directory, read
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:345:33)
+    at async engine.engine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:146:14)
+    at async invokeRender (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:61:23)
+    at async WorkerReporter._render (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:148:7)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:227:24
+    at async processAndResponse (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=elj1yougg2sw5u2, id=elj1yougg2sw5u2
+2024-05-04T04:04:26.209Z - warn: Rendering request 10 finished with error in 43 ms rootId=elj1yougg2sw5u2, id=elj1yougg2sw5u2
+2024-05-04T04:05:13.962Z - info: Render request 11 queued for execution and waiting for available worker rootId=87j5qndlsp3j1g9, id=87j5qndlsp3j1g9
+2024-05-04T04:05:13.971Z - info: Starting rendering request 11 rootId=87j5qndlsp3j1g9, id=87j5qndlsp3j1g9
+2024-05-04T04:05:13.971Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=87j5qndlsp3j1g9, id=87j5qndlsp3j1g9
+2024-05-04T04:05:14.005Z - warn: Error when processing render request 11
+(because) error when evaluating engine handlebars for template /print-ticket/main
+(because) "asset" helper call failed
+(because) asset ./data/print-ticket/styles/styles.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/data/print-ticket/styles/styles.css
+(because) eISDIR: illegal operation on a directory, read
+
+(system-helpers.js line 293:20)
+
+  291 |
+  292 |   const jsreport = require('jsreport-proxy')
+> 293 |   const assetVal = await jsreport.assets.read(path, encoding)
+      |                    ^
+  294 |   return assetVal
+  295 | }
+  296 |
+
+
+Error: Asset ./data/print-ticket/styles/styles.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/data/print-ticket/styles/styles.css
+(because) eISDIR: illegal operation on a directory, read
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at readAsset (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-assets/lib/assetsShared.js:138:24)
+    at async Object.read (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-assets/lib/worker.js:136:19)
+    at async Object.asset (system-helpers.js:293:20)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:265:26
+    at async Promise.all (index 0)
+    at async executionFn (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:264:9)
+    at async run (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/createSandbox.js:137:16)
+    at async WorkerReporter.runInSandbox [as _runInSandbox] (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/runInSandbox.js:211:14)
+wrapped by:
+Error: "asset" helper call failed
+(because) asset ./data/print-ticket/styles/styles.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/data/print-ticket/styles/styles.css
+(because) eISDIR: illegal operation on a directory, read
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at getEnhancedHelperError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:400:54)
+    at /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:418:15
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:265:26
+    at async Promise.all (index 0)
+    at async executionFn (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:264:9)
+    at async run (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/createSandbox.js:137:16)
+    at async WorkerReporter.runInSandbox [as _runInSandbox] (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/runInSandbox.js:211:14)
+    at async executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:322:14)
+wrapped by:
+Error: Error when evaluating engine handlebars for template /print-ticket/main
+(because) "asset" helper call failed
+(because) asset ./data/print-ticket/styles/styles.css not found in the store and also not on the disk: Unable to find or read file /home/haphuthinh/Workplace/School_project/airline-management.print/data/print-ticket/styles/styles.css
+(because) eISDIR: illegal operation on a directory, read
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:345:33)
+    at async engine.engine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:146:14)
+    at async invokeRender (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:61:23)
+    at async WorkerReporter._render (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:148:7)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:227:24
+    at async processAndResponse (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=87j5qndlsp3j1g9, id=87j5qndlsp3j1g9
+2024-05-04T04:05:14.005Z - warn: Rendering request 11 finished with error in 43 ms rootId=87j5qndlsp3j1g9, id=87j5qndlsp3j1g9
+2024-05-04T04:07:34.509Z - info: Render request 12 queued for execution and waiting for available worker rootId=llxsing9rn61mm0, id=llxsing9rn61mm0
+2024-05-04T04:07:34.524Z - info: Starting rendering request 12 rootId=llxsing9rn61mm0, id=llxsing9rn61mm0
+2024-05-04T04:07:34.525Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=llxsing9rn61mm0, id=llxsing9rn61mm0
+2024-05-04T04:07:34.534Z - warn: Error when processing render request 12
+(because) error when evaluating engine handlebars for template /main
+(because) "barcode" helper call failed
+(because) bwip-js: bar code text not specified.
+
+(sandbox.js line 6:30)
+
+  4 |
+  5 | async function barcode(text) {
+> 6 |     const png = await bwipjs.toBuffer({ 
+    |                              ^
+  7 |         bcid:'pdf417', 
+  8 |         text,
+  9 |         columns: 2,
+
+
+ReferenceError: bwip-js: bar code text not specified.
+    at _Render (/tmp/jsreport/npm/modules/bwip-js@3.0.4/node_modules/bwip-js/dist/bwip-js-node.js:190:9)
+    at Object.ToBuffer [as toBuffer] (/tmp/jsreport/npm/modules/bwip-js@3.0.4/node_modules/bwip-js/dist/bwip-js-node.js:90:10)
+    at Object.barcode (sandbox.js:6:30)
+    at Object.<anonymous> (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:404:23)
+    at Object.<anonymous> (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:382:27)
+    at Object.wrapper (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/handlebars/dist/cjs/handlebars/internal/wrapHelper.js:15:19)
+    at Object.main (eval at compile (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-handlebars/lib/handlebarsEngine.js:35:30), <anonymous>:18:104)
+    at main (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/handlebars/dist/cjs/handlebars/runtime.js:208:32)
+    at ret (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/handlebars/dist/cjs/handlebars/runtime.js:212:12)
+    at Object.execute (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-handlebars/lib/handlebarsEngine.js:80:14)
+wrapped by:
+Error: "barcode" helper call failed
+(because) bwip-js: bar code text not specified.
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at getEnhancedHelperError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:400:54)
+    at /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:418:15
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:265:26
+    at async Promise.all (index 1)
+    at async executionFn (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:264:9)
+    at async run (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/createSandbox.js:137:16)
+    at async WorkerReporter.runInSandbox [as _runInSandbox] (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/sandbox/runInSandbox.js:211:14)
+    at async executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:322:14)
+wrapped by:
+Error: Error when evaluating engine handlebars for template /main
+(because) "barcode" helper call failed
+(because) bwip-js: bar code text not specified.
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at executeEngine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:345:33)
+    at async engine.engine (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/executeEngine.js:146:14)
+    at async invokeRender (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:61:23)
+    at async WorkerReporter._render (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:148:7)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:227:24
+    at async processAndResponse (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=llxsing9rn61mm0, id=llxsing9rn61mm0
+2024-05-04T04:07:34.534Z - warn: Rendering request 12 finished with error in 24 ms rootId=llxsing9rn61mm0, id=llxsing9rn61mm0
+2024-05-04T04:08:04.489Z - info: Render request 13 queued for execution and waiting for available worker rootId=0azzktja24zyeer, id=0azzktja24zyeer
+2024-05-04T04:08:04.501Z - info: Starting rendering request 13 rootId=0azzktja24zyeer, id=0azzktja24zyeer
+2024-05-04T04:08:04.502Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=0azzktja24zyeer, id=0azzktja24zyeer
+2024-05-04T04:08:05.851Z - info: Rendering request 13 finished in 1362 ms rootId=0azzktja24zyeer, id=0azzktja24zyeer
+2024-05-04T04:10:38.706Z - info: Render request 14 queued for execution and waiting for available worker rootId=jlxgdgcys1jrquk, id=jlxgdgcys1jrquk
+2024-05-04T04:10:38.710Z - info: Starting rendering request 14 rootId=jlxgdgcys1jrquk, id=jlxgdgcys1jrquk
+2024-05-04T04:10:38.710Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=jlxgdgcys1jrquk, id=jlxgdgcys1jrquk
+2024-05-04T04:10:39.573Z - info: Rendering request 14 finished in 868 ms rootId=jlxgdgcys1jrquk, id=jlxgdgcys1jrquk
+2024-05-04T04:12:15.719Z - info: Render request 15 queued for execution and waiting for available worker rootId=5lpgxnube49brsq, id=5lpgxnube49brsq
+2024-05-04T04:12:15.724Z - info: Starting rendering request 15 rootId=5lpgxnube49brsq, id=5lpgxnube49brsq
+2024-05-04T04:12:15.724Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=5lpgxnube49brsq, id=5lpgxnube49brsq
+2024-05-04T04:12:15.946Z - info: Rendering request 15 finished in 227 ms rootId=5lpgxnube49brsq, id=5lpgxnube49brsq
+2024-05-04T04:12:33.588Z - info: Render request 16 queued for execution and waiting for available worker rootId=vgh73xtevc8dozp, id=vgh73xtevc8dozp
+2024-05-04T04:12:33.595Z - info: Starting rendering request 16 rootId=vgh73xtevc8dozp, id=vgh73xtevc8dozp
+2024-05-04T04:12:33.595Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=vgh73xtevc8dozp, id=vgh73xtevc8dozp
+2024-05-04T04:12:33.844Z - info: Rendering request 16 finished in 255 ms rootId=vgh73xtevc8dozp, id=vgh73xtevc8dozp
+2024-05-04T04:13:03.309Z - info: Render request 17 queued for execution and waiting for available worker rootId=8j5clnpewcrcoj9, id=8j5clnpewcrcoj9
+2024-05-04T04:13:03.314Z - info: Starting rendering request 17 rootId=8j5clnpewcrcoj9, id=8j5clnpewcrcoj9
+2024-05-04T04:13:03.314Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=8j5clnpewcrcoj9, id=8j5clnpewcrcoj9
+2024-05-04T04:13:03.539Z - info: Rendering request 17 finished in 230 ms rootId=8j5clnpewcrcoj9, id=8j5clnpewcrcoj9
+2024-05-04T04:14:04.022Z - info: Render request 18 queued for execution and waiting for available worker rootId=r8qxz0j6cgoe1dk, id=r8qxz0j6cgoe1dk
+2024-05-04T04:14:04.029Z - info: Starting rendering request 18 rootId=r8qxz0j6cgoe1dk, id=r8qxz0j6cgoe1dk
+2024-05-04T04:14:04.031Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=r8qxz0j6cgoe1dk, id=r8qxz0j6cgoe1dk
+2024-05-04T04:14:04.322Z - info: Rendering request 18 finished in 300 ms rootId=r8qxz0j6cgoe1dk, id=r8qxz0j6cgoe1dk
+2024-05-04T04:16:07.381Z - info: Render request 19 queued for execution and waiting for available worker rootId=e900ux29jil77fz, id=e900ux29jil77fz
+2024-05-04T04:16:07.481Z - info: Starting rendering request 19 rootId=e900ux29jil77fz, id=e900ux29jil77fz
+2024-05-04T04:16:07.482Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=e900ux29jil77fz, id=e900ux29jil77fz
+2024-05-04T04:16:08.085Z - info: Rendering request 19 finished in 716 ms rootId=e900ux29jil77fz, id=e900ux29jil77fz
+2024-05-04T04:16:53.109Z - info: Render request 20 queued for execution and waiting for available worker rootId=006auia49a5xy15, id=006auia49a5xy15
+2024-05-04T04:16:53.148Z - info: Starting rendering request 20 rootId=006auia49a5xy15, id=006auia49a5xy15
+2024-05-04T04:16:53.148Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=006auia49a5xy15, id=006auia49a5xy15
+2024-05-04T04:16:53.541Z - info: Rendering request 20 finished in 432 ms rootId=006auia49a5xy15, id=006auia49a5xy15
+2024-05-04T04:17:12.556Z - info: Render request 21 queued for execution and waiting for available worker rootId=mm80jw5mxawd9zx, id=mm80jw5mxawd9zx
+2024-05-04T04:17:12.576Z - info: Starting rendering request 21 rootId=mm80jw5mxawd9zx, id=mm80jw5mxawd9zx
+2024-05-04T04:17:12.577Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=mm80jw5mxawd9zx, id=mm80jw5mxawd9zx
+2024-05-04T04:17:12.808Z - info: Rendering request 21 finished in 252 ms rootId=mm80jw5mxawd9zx, id=mm80jw5mxawd9zx
+2024-05-04T04:17:39.710Z - info: Render request 22 queued for execution and waiting for available worker rootId=rwt0s3g31l9920r, id=rwt0s3g31l9920r
+2024-05-04T04:17:39.726Z - info: Starting rendering request 22 rootId=rwt0s3g31l9920r, id=rwt0s3g31l9920r
+2024-05-04T04:17:39.726Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=rwt0s3g31l9920r, id=rwt0s3g31l9920r
+2024-05-04T04:17:39.970Z - info: Rendering request 22 finished in 260 ms rootId=rwt0s3g31l9920r, id=rwt0s3g31l9920r
+2024-05-04T04:17:45.422Z - info: Render request 23 queued for execution and waiting for available worker rootId=dnaaj6uzcqcz2sa, id=dnaaj6uzcqcz2sa
+2024-05-04T04:17:45.429Z - info: Starting rendering request 23 rootId=dnaaj6uzcqcz2sa, id=dnaaj6uzcqcz2sa
+2024-05-04T04:17:45.430Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=dnaaj6uzcqcz2sa, id=dnaaj6uzcqcz2sa
+2024-05-04T04:17:45.671Z - info: Rendering request 23 finished in 249 ms rootId=dnaaj6uzcqcz2sa, id=dnaaj6uzcqcz2sa
+2024-05-04T04:18:56.347Z - info: Render request 24 queued for execution and waiting for available worker rootId=zi2f8ztowgwky6v, id=zi2f8ztowgwky6v
+2024-05-04T04:18:56.354Z - info: Starting rendering request 24 rootId=zi2f8ztowgwky6v, id=zi2f8ztowgwky6v
+2024-05-04T04:18:56.354Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=zi2f8ztowgwky6v, id=zi2f8ztowgwky6v
+2024-05-04T04:18:56.636Z - info: Rendering request 24 finished in 288 ms rootId=zi2f8ztowgwky6v, id=zi2f8ztowgwky6v
+2024-05-04T04:19:29.589Z - info: Render request 25 queued for execution and waiting for available worker rootId=6hyr2e0qq5p5vjt, id=6hyr2e0qq5p5vjt
+2024-05-04T04:19:29.596Z - info: Starting rendering request 25 rootId=6hyr2e0qq5p5vjt, id=6hyr2e0qq5p5vjt
+2024-05-04T04:19:29.596Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=6hyr2e0qq5p5vjt, id=6hyr2e0qq5p5vjt
+2024-05-04T04:19:29.833Z - info: Rendering request 25 finished in 243 ms rootId=6hyr2e0qq5p5vjt, id=6hyr2e0qq5p5vjt
+2024-05-04T04:19:54.893Z - info: Render request 26 queued for execution and waiting for available worker rootId=hsnqko2a4ducntm, id=hsnqko2a4ducntm
+2024-05-04T04:19:54.900Z - info: Starting rendering request 26 rootId=hsnqko2a4ducntm, id=hsnqko2a4ducntm
+2024-05-04T04:19:54.900Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=hsnqko2a4ducntm, id=hsnqko2a4ducntm
+2024-05-04T04:19:55.157Z - info: Rendering request 26 finished in 263 ms rootId=hsnqko2a4ducntm, id=hsnqko2a4ducntm
+2024-05-04T04:21:22.857Z - info: Render request 27 queued for execution and waiting for available worker rootId=vyatfolv1r5vwep, id=vyatfolv1r5vwep
+2024-05-04T04:21:22.865Z - info: Starting rendering request 27 rootId=vyatfolv1r5vwep, id=vyatfolv1r5vwep
+2024-05-04T04:21:22.865Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=vyatfolv1r5vwep, id=vyatfolv1r5vwep
+2024-05-04T04:21:23.096Z - info: Rendering request 27 finished in 240 ms rootId=vyatfolv1r5vwep, id=vyatfolv1r5vwep
+2024-05-04T04:22:11.816Z - info: Render request 28 queued for execution and waiting for available worker rootId=wsne6srhipdhnub, id=wsne6srhipdhnub
+2024-05-04T04:22:11.825Z - info: Starting rendering request 28 rootId=wsne6srhipdhnub, id=wsne6srhipdhnub
+2024-05-04T04:22:11.825Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=wsne6srhipdhnub, id=wsne6srhipdhnub
+2024-05-04T04:22:12.068Z - info: Rendering request 28 finished in 252 ms rootId=wsne6srhipdhnub, id=wsne6srhipdhnub
+2024-05-04T04:22:14.346Z - info: Render request 29 queued for execution and waiting for available worker rootId=evbnqkvu2bxorki, id=evbnqkvu2bxorki
+2024-05-04T04:22:14.355Z - info: Starting rendering request 29 rootId=evbnqkvu2bxorki, id=evbnqkvu2bxorki
+2024-05-04T04:22:14.355Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=evbnqkvu2bxorki, id=evbnqkvu2bxorki
+2024-05-04T04:22:14.584Z - info: Rendering request 29 finished in 238 ms rootId=evbnqkvu2bxorki, id=evbnqkvu2bxorki
+2024-05-04T04:23:08.090Z - info: Render request 30 queued for execution and waiting for available worker rootId=kaeygw5es2ezrsm, id=kaeygw5es2ezrsm
+2024-05-04T04:23:08.099Z - info: Starting rendering request 30 rootId=kaeygw5es2ezrsm, id=kaeygw5es2ezrsm
+2024-05-04T04:23:08.100Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=kaeygw5es2ezrsm, id=kaeygw5es2ezrsm
+2024-05-04T04:23:08.356Z - info: Rendering request 30 finished in 266 ms rootId=kaeygw5es2ezrsm, id=kaeygw5es2ezrsm
+2024-05-04T04:23:27.852Z - info: Render request 31 queued for execution and waiting for available worker rootId=2sb68kjf37tx5nt, id=2sb68kjf37tx5nt
+2024-05-04T04:23:27.869Z - info: Starting rendering request 31 rootId=2sb68kjf37tx5nt, id=2sb68kjf37tx5nt
+2024-05-04T04:23:27.870Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=2sb68kjf37tx5nt, id=2sb68kjf37tx5nt
+2024-05-04T04:23:28.131Z - info: Rendering request 31 finished in 279 ms rootId=2sb68kjf37tx5nt, id=2sb68kjf37tx5nt
+2024-05-04T04:23:51.275Z - info: Render request 32 queued for execution and waiting for available worker rootId=oolus639kud2bb1, id=oolus639kud2bb1
+2024-05-04T04:23:51.279Z - info: Starting rendering request 32 rootId=oolus639kud2bb1, id=oolus639kud2bb1
+2024-05-04T04:23:51.279Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=oolus639kud2bb1, id=oolus639kud2bb1
+2024-05-04T04:23:51.525Z - info: Rendering request 32 finished in 250 ms rootId=oolus639kud2bb1, id=oolus639kud2bb1
+2024-05-04T04:24:28.962Z - info: Render request 33 queued for execution and waiting for available worker rootId=cu8fflo42s0qtky, id=cu8fflo42s0qtky
+2024-05-04T04:24:28.970Z - info: Starting rendering request 33 rootId=cu8fflo42s0qtky, id=cu8fflo42s0qtky
+2024-05-04T04:24:28.970Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=cu8fflo42s0qtky, id=cu8fflo42s0qtky
+2024-05-04T04:24:29.279Z - info: Rendering request 33 finished in 316 ms rootId=cu8fflo42s0qtky, id=cu8fflo42s0qtky
+2024-05-04T04:24:31.596Z - info: Render request 34 queued for execution and waiting for available worker rootId=qtakvb16z9rczt2, id=qtakvb16z9rczt2
+2024-05-04T04:24:31.599Z - info: Starting rendering request 34 rootId=qtakvb16z9rczt2, id=qtakvb16z9rczt2
+2024-05-04T04:24:31.599Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=qtakvb16z9rczt2, id=qtakvb16z9rczt2
+2024-05-04T04:24:31.844Z - info: Rendering request 34 finished in 248 ms rootId=qtakvb16z9rczt2, id=qtakvb16z9rczt2
+2024-05-04T04:24:55.276Z - info: Render request 35 queued for execution and waiting for available worker rootId=qdeieourpq8djha, id=qdeieourpq8djha
+2024-05-04T04:24:55.280Z - info: Starting rendering request 35 rootId=qdeieourpq8djha, id=qdeieourpq8djha
+2024-05-04T04:24:55.280Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=qdeieourpq8djha, id=qdeieourpq8djha
+2024-05-04T04:24:55.516Z - info: Rendering request 35 finished in 240 ms rootId=qdeieourpq8djha, id=qdeieourpq8djha
+2024-05-04T04:25:25.670Z - info: Render request 36 queued for execution and waiting for available worker rootId=rx6fqqcpri5wa8f, id=rx6fqqcpri5wa8f
+2024-05-04T04:25:25.677Z - info: Starting rendering request 36 rootId=rx6fqqcpri5wa8f, id=rx6fqqcpri5wa8f
+2024-05-04T04:25:25.678Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=rx6fqqcpri5wa8f, id=rx6fqqcpri5wa8f
+2024-05-04T04:25:25.935Z - info: Rendering request 36 finished in 265 ms rootId=rx6fqqcpri5wa8f, id=rx6fqqcpri5wa8f
+2024-05-04T04:26:10.873Z - info: Render request 37 queued for execution and waiting for available worker rootId=aa3msdv7ujp2ndk, id=aa3msdv7ujp2ndk
+2024-05-04T04:26:10.885Z - info: Starting rendering request 37 rootId=aa3msdv7ujp2ndk, id=aa3msdv7ujp2ndk
+2024-05-04T04:26:10.886Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=aa3msdv7ujp2ndk, id=aa3msdv7ujp2ndk
+2024-05-04T04:26:11.140Z - info: Rendering request 37 finished in 267 ms rootId=aa3msdv7ujp2ndk, id=aa3msdv7ujp2ndk
+2024-05-04T04:26:23.838Z - info: Render request 38 queued for execution and waiting for available worker rootId=48zguxfc9x8waza, id=48zguxfc9x8waza
+2024-05-04T04:26:23.845Z - info: Starting rendering request 38 rootId=48zguxfc9x8waza, id=48zguxfc9x8waza
+2024-05-04T04:26:23.846Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=48zguxfc9x8waza, id=48zguxfc9x8waza
+2024-05-04T04:26:24.071Z - info: Rendering request 38 finished in 233 ms rootId=48zguxfc9x8waza, id=48zguxfc9x8waza
+2024-05-04T04:26:46.473Z - info: Render request 39 queued for execution and waiting for available worker rootId=pjusijto4j81hms, id=pjusijto4j81hms
+2024-05-04T04:26:46.480Z - info: Starting rendering request 39 rootId=pjusijto4j81hms, id=pjusijto4j81hms
+2024-05-04T04:26:46.480Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=pjusijto4j81hms, id=pjusijto4j81hms
+2024-05-04T04:26:46.708Z - info: Rendering request 39 finished in 235 ms rootId=pjusijto4j81hms, id=pjusijto4j81hms
+2024-05-04T04:26:52.169Z - info: Render request 40 queued for execution and waiting for available worker rootId=lgk53uostecrut1, id=lgk53uostecrut1
+2024-05-04T04:26:52.175Z - info: Starting rendering request 40 rootId=lgk53uostecrut1, id=lgk53uostecrut1
+2024-05-04T04:26:52.175Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=lgk53uostecrut1, id=lgk53uostecrut1
+2024-05-04T04:26:52.386Z - info: Rendering request 40 finished in 217 ms rootId=lgk53uostecrut1, id=lgk53uostecrut1
+2024-05-04T04:27:18.949Z - info: Render request 41 queued for execution and waiting for available worker rootId=t8vtcnk73qqirb6, id=t8vtcnk73qqirb6
+2024-05-04T04:27:18.956Z - info: Starting rendering request 41 rootId=t8vtcnk73qqirb6, id=t8vtcnk73qqirb6
+2024-05-04T04:27:18.957Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=t8vtcnk73qqirb6, id=t8vtcnk73qqirb6
+2024-05-04T04:27:19.188Z - info: Rendering request 41 finished in 239 ms rootId=t8vtcnk73qqirb6, id=t8vtcnk73qqirb6
+2024-05-04T04:27:25.265Z - info: Render request 42 queued for execution and waiting for available worker rootId=760rvbq3cayyau2, id=760rvbq3cayyau2
+2024-05-04T04:27:25.270Z - info: Starting rendering request 42 rootId=760rvbq3cayyau2, id=760rvbq3cayyau2
+2024-05-04T04:27:25.270Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=760rvbq3cayyau2, id=760rvbq3cayyau2
+2024-05-04T04:27:25.538Z - info: Rendering request 42 finished in 274 ms rootId=760rvbq3cayyau2, id=760rvbq3cayyau2
+2024-05-04T04:27:38.075Z - info: Render request 43 queued for execution and waiting for available worker rootId=vqxv53qiave72cu, id=vqxv53qiave72cu
+2024-05-04T04:27:38.079Z - info: Starting rendering request 43 rootId=vqxv53qiave72cu, id=vqxv53qiave72cu
+2024-05-04T04:27:38.079Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=vqxv53qiave72cu, id=vqxv53qiave72cu
+2024-05-04T04:27:38.322Z - info: Rendering request 43 finished in 247 ms rootId=vqxv53qiave72cu, id=vqxv53qiave72cu
+2024-05-04T04:27:54.158Z - info: Render request 44 queued for execution and waiting for available worker rootId=ct9dlzmtesq66yw, id=ct9dlzmtesq66yw
+2024-05-04T04:27:54.162Z - info: Starting rendering request 44 rootId=ct9dlzmtesq66yw, id=ct9dlzmtesq66yw
+2024-05-04T04:27:54.163Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=ct9dlzmtesq66yw, id=ct9dlzmtesq66yw
+2024-05-04T04:27:54.409Z - info: Rendering request 44 finished in 251 ms rootId=ct9dlzmtesq66yw, id=ct9dlzmtesq66yw
+2024-05-04T04:28:05.698Z - info: Render request 45 queued for execution and waiting for available worker rootId=po8tg6dtpayytb5, id=po8tg6dtpayytb5
+2024-05-04T04:28:05.704Z - info: Starting rendering request 45 rootId=po8tg6dtpayytb5, id=po8tg6dtpayytb5
+2024-05-04T04:28:05.704Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=po8tg6dtpayytb5, id=po8tg6dtpayytb5
+2024-05-04T04:28:05.985Z - info: Rendering request 45 finished in 287 ms rootId=po8tg6dtpayytb5, id=po8tg6dtpayytb5
+2024-05-04T04:29:39.814Z - info: Render request 46 queued for execution and waiting for available worker rootId=k7eu4am7fh1okjx, id=k7eu4am7fh1okjx
+2024-05-04T04:29:39.817Z - info: Starting rendering request 46 rootId=k7eu4am7fh1okjx, id=k7eu4am7fh1okjx
+2024-05-04T04:29:39.818Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=k7eu4am7fh1okjx, id=k7eu4am7fh1okjx
+2024-05-04T04:29:40.027Z - info: Rendering request 46 finished in 212 ms rootId=k7eu4am7fh1okjx, id=k7eu4am7fh1okjx
+2024-05-04T04:35:45.226Z - info: Render request 47 queued for execution and waiting for available worker rootId=6hzig543kzbnqd9, id=6hzig543kzbnqd9
+2024-05-04T04:35:45.239Z - info: Starting rendering request 47 rootId=6hzig543kzbnqd9, id=6hzig543kzbnqd9
+2024-05-04T04:35:45.239Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=6hzig543kzbnqd9, id=6hzig543kzbnqd9
+2024-05-04T04:35:45.651Z - info: Rendering request 47 finished in 434 ms rootId=6hzig543kzbnqd9, id=6hzig543kzbnqd9
+2024-05-04T04:36:05.642Z - info: Render request 48 queued for execution and waiting for available worker rootId=l3d1it6xaqk158i, id=l3d1it6xaqk158i
+2024-05-04T04:36:05.675Z - info: Starting rendering request 48 rootId=l3d1it6xaqk158i, id=l3d1it6xaqk158i
+2024-05-04T04:36:05.675Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=l3d1it6xaqk158i, id=l3d1it6xaqk158i
+2024-05-04T04:36:05.982Z - info: Rendering request 48 finished in 341 ms rootId=l3d1it6xaqk158i, id=l3d1it6xaqk158i
+2024-05-04T04:36:40.422Z - info: Render request 49 queued for execution and waiting for available worker rootId=u8ie1swaydziu21, id=u8ie1swaydziu21
+2024-05-04T04:36:40.426Z - info: Starting rendering request 49 rootId=u8ie1swaydziu21, id=u8ie1swaydziu21
+2024-05-04T04:36:40.426Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=u8ie1swaydziu21, id=u8ie1swaydziu21
+2024-05-04T04:36:40.648Z - info: Rendering request 49 finished in 226 ms rootId=u8ie1swaydziu21, id=u8ie1swaydziu21
+2024-05-04T04:36:49.246Z - info: Render request 50 queued for execution and waiting for available worker rootId=q7cyl9bzb2xrii1, id=q7cyl9bzb2xrii1
+2024-05-04T04:36:49.249Z - info: Starting rendering request 50 rootId=q7cyl9bzb2xrii1, id=q7cyl9bzb2xrii1
+2024-05-04T04:36:49.249Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=q7cyl9bzb2xrii1, id=q7cyl9bzb2xrii1
+2024-05-04T04:36:49.486Z - info: Rendering request 50 finished in 240 ms rootId=q7cyl9bzb2xrii1, id=q7cyl9bzb2xrii1
+2024-05-04T04:36:54.891Z - info: Render request 51 queued for execution and waiting for available worker rootId=1af86lxfhhwcwcc, id=1af86lxfhhwcwcc
+2024-05-04T04:36:54.894Z - info: Starting rendering request 51 rootId=1af86lxfhhwcwcc, id=1af86lxfhhwcwcc
+2024-05-04T04:36:54.894Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=1af86lxfhhwcwcc, id=1af86lxfhhwcwcc
+2024-05-04T04:36:55.121Z - info: Rendering request 51 finished in 230 ms rootId=1af86lxfhhwcwcc, id=1af86lxfhhwcwcc
+2024-05-04T04:37:03.113Z - info: Render request 52 queued for execution and waiting for available worker rootId=s27do8snz88cjld, id=s27do8snz88cjld
+2024-05-04T04:37:03.117Z - info: Starting rendering request 52 rootId=s27do8snz88cjld, id=s27do8snz88cjld
+2024-05-04T04:37:03.118Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=s27do8snz88cjld, id=s27do8snz88cjld
+2024-05-04T04:37:03.339Z - info: Rendering request 52 finished in 226 ms rootId=s27do8snz88cjld, id=s27do8snz88cjld
+2024-05-04T05:33:39.238Z - info: Render request 53 queued for execution and waiting for available worker rootId=9lvq7j4p1gbjp8m, id=9lvq7j4p1gbjp8m
+2024-05-04T05:33:39.360Z - info: Starting rendering request 53 rootId=9lvq7j4p1gbjp8m, id=9lvq7j4p1gbjp8m
+2024-05-04T05:33:39.360Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=9lvq7j4p1gbjp8m, id=9lvq7j4p1gbjp8m
+2024-05-04T05:33:40.145Z - info: Rendering request 53 finished in 927 ms rootId=9lvq7j4p1gbjp8m, id=9lvq7j4p1gbjp8m
+2024-05-04T05:42:46.161Z - info: Render request 54 queued for execution and waiting for available worker rootId=v87msr3zi60zvyj, id=v87msr3zi60zvyj
+2024-05-04T05:42:46.296Z - info: Starting rendering request 54 rootId=v87msr3zi60zvyj, id=v87msr3zi60zvyj
+2024-05-04T05:42:46.296Z - warn: Error when processing render request 54
+(because) template must contains _id, name, shortid or content attribute
+Error: Template must contains _id, name, shortid or content attribute
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at AsyncFunction.<anonymous> (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/templates.js:14:24)
+    at ListenerCollection.fire (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/listenerCollection.js:157:32)
+    at async beforeRender (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:24:5)
+    at async WorkerReporter._render (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:147:7)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:227:24
+    at async processAndResponse (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=v87msr3zi60zvyj, id=v87msr3zi60zvyj
+2024-05-04T05:42:46.297Z - warn: Rendering request 54 finished with error in 136 ms rootId=v87msr3zi60zvyj, id=v87msr3zi60zvyj
+2024-05-04T05:42:46.306Z - warn: Error during processing request at http://localhost:5488/api/report
+2024-05-04T05:43:17.151Z - info: Render request 55 queued for execution and waiting for available worker rootId=fv65pmozrwixa1q, id=fv65pmozrwixa1q
+2024-05-04T05:43:17.154Z - info: Starting rendering request 55 rootId=fv65pmozrwixa1q, id=fv65pmozrwixa1q
+2024-05-04T05:43:17.155Z - warn: Error when processing render request 55
+(because) template must contains _id, name, shortid or content attribute
+Error: Template must contains _id, name, shortid or content attribute
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at AsyncFunction.<anonymous> (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/templates.js:14:24)
+    at ListenerCollection.fire (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/listenerCollection.js:157:32)
+    at async beforeRender (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:24:5)
+    at async WorkerReporter._render (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:147:7)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:227:24
+    at async processAndResponse (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=fv65pmozrwixa1q, id=fv65pmozrwixa1q
+2024-05-04T05:43:17.155Z - warn: Rendering request 55 finished with error in 3 ms rootId=fv65pmozrwixa1q, id=fv65pmozrwixa1q
+2024-05-04T05:43:17.155Z - warn: Error during processing request at http://localhost:5488/api/report
+2024-05-04T05:43:28.602Z - info: Render request 56 queued for execution and waiting for available worker rootId=uwukwq0f7ngbb3o, id=uwukwq0f7ngbb3o
+2024-05-04T05:43:28.606Z - info: Starting rendering request 56 rootId=uwukwq0f7ngbb3o, id=uwukwq0f7ngbb3o
+2024-05-04T05:43:28.606Z - warn: Error when processing render request 56
+(because) template must contains _id, name, shortid or content attribute
+Error: Template must contains _id, name, shortid or content attribute
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at AsyncFunction.<anonymous> (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/templates.js:14:24)
+    at ListenerCollection.fire (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/listenerCollection.js:157:32)
+    at async beforeRender (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:24:5)
+    at async WorkerReporter._render (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:147:7)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:227:24
+    at async processAndResponse (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=uwukwq0f7ngbb3o, id=uwukwq0f7ngbb3o
+2024-05-04T05:43:28.606Z - warn: Rendering request 56 finished with error in 4 ms rootId=uwukwq0f7ngbb3o, id=uwukwq0f7ngbb3o
+2024-05-04T05:43:28.607Z - warn: Error during processing request at http://localhost:5488/api/report
+2024-05-04T05:43:56.902Z - info: Render request 57 queued for execution and waiting for available worker rootId=7vhkvlr4i7goth3, id=7vhkvlr4i7goth3
+2024-05-04T05:43:56.906Z - info: Starting rendering request 57 rootId=7vhkvlr4i7goth3, id=7vhkvlr4i7goth3
+2024-05-04T05:43:56.906Z - warn: Error when processing render request 57
+(because) template must contains _id, name, shortid or content attribute
+Error: Template must contains _id, name, shortid or content attribute
+    at module.exports (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at WorkerReporter.createError (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:53:12)
+    at AsyncFunction.<anonymous> (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/templates.js:14:24)
+    at ListenerCollection.fire (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/shared/listenerCollection.js:157:32)
+    at async beforeRender (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:24:5)
+    at async WorkerReporter._render (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:147:7)
+    at async /home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:227:24
+    at async processAndResponse (/home/haphuthinh/Workplace/School_project/airline-management.print/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=7vhkvlr4i7goth3, id=7vhkvlr4i7goth3
+2024-05-04T05:43:56.906Z - warn: Rendering request 57 finished with error in 4 ms rootId=7vhkvlr4i7goth3, id=7vhkvlr4i7goth3
+2024-05-04T05:43:56.909Z - warn: Error during processing request at http://localhost:5488/api/report
+2024-05-04T05:46:12.090Z - info: Render request 58 queued for execution and waiting for available worker rootId=si6oh10nqr5ny82, id=si6oh10nqr5ny82
+2024-05-04T05:46:12.131Z - info: Starting rendering request 58 rootId=si6oh10nqr5ny82, id=si6oh10nqr5ny82
+2024-05-04T05:46:12.131Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=si6oh10nqr5ny82, id=si6oh10nqr5ny82
+2024-05-04T05:46:13.149Z - info: Rendering request 58 finished in 1058 ms rootId=si6oh10nqr5ny82, id=si6oh10nqr5ny82
+2024-05-04T05:46:21.745Z - info: Render request 59 queued for execution and waiting for available worker rootId=40vohf4f260ef7m, id=40vohf4f260ef7m
+2024-05-04T05:46:21.755Z - info: Starting rendering request 59 rootId=40vohf4f260ef7m, id=40vohf4f260ef7m
+2024-05-04T05:46:21.756Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=40vohf4f260ef7m, id=40vohf4f260ef7m
+2024-05-04T05:46:22.224Z - info: Rendering request 59 finished in 478 ms rootId=40vohf4f260ef7m, id=40vohf4f260ef7m
+2024-05-04T05:48:16.813Z - info: Render request 60 queued for execution and waiting for available worker rootId=k3xn9y3z0j1s6xy, id=k3xn9y3z0j1s6xy
+2024-05-04T05:48:16.818Z - info: Starting rendering request 60 rootId=k3xn9y3z0j1s6xy, id=k3xn9y3z0j1s6xy
+2024-05-04T05:48:16.818Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=k3xn9y3z0j1s6xy, id=k3xn9y3z0j1s6xy
+2024-05-04T05:48:17.271Z - info: Rendering request 60 finished in 459 ms rootId=k3xn9y3z0j1s6xy, id=k3xn9y3z0j1s6xy
+2024-05-04T05:49:38.164Z - info: Render request 61 queued for execution and waiting for available worker rootId=z3w6qqtkp3i750g, id=z3w6qqtkp3i750g
+2024-05-04T05:49:38.168Z - info: Starting rendering request 61 rootId=z3w6qqtkp3i750g, id=z3w6qqtkp3i750g
+2024-05-04T05:49:38.168Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=z3w6qqtkp3i750g, id=z3w6qqtkp3i750g
+2024-05-04T05:49:38.413Z - info: Rendering request 61 finished in 249 ms rootId=z3w6qqtkp3i750g, id=z3w6qqtkp3i750g
+2024-05-04T05:51:21.672Z - info: Render request 62 queued for execution and waiting for available worker rootId=uybr69n7j20rfih, id=uybr69n7j20rfih
+2024-05-04T05:51:21.676Z - info: Starting rendering request 62 rootId=uybr69n7j20rfih, id=uybr69n7j20rfih
+2024-05-04T05:51:21.676Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=uybr69n7j20rfih, id=uybr69n7j20rfih
+2024-05-04T05:51:21.951Z - info: Rendering request 62 finished in 280 ms rootId=uybr69n7j20rfih, id=uybr69n7j20rfih
+2024-05-04T05:52:13.780Z - info: Render request 63 queued for execution and waiting for available worker rootId=9zdjcaspsz2f62y, id=9zdjcaspsz2f62y
+2024-05-04T05:52:13.784Z - info: Starting rendering request 63 rootId=9zdjcaspsz2f62y, id=9zdjcaspsz2f62y
+2024-05-04T05:52:13.784Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=9zdjcaspsz2f62y, id=9zdjcaspsz2f62y
+2024-05-04T05:52:14.008Z - info: Rendering request 63 finished in 229 ms rootId=9zdjcaspsz2f62y, id=9zdjcaspsz2f62y
+2024-05-04T05:53:12.854Z - info: Render request 64 queued for execution and waiting for available worker rootId=j6e1da1ixv6ewim, id=j6e1da1ixv6ewim
+2024-05-04T05:53:12.865Z - info: Starting rendering request 64 rootId=j6e1da1ixv6ewim, id=j6e1da1ixv6ewim
+2024-05-04T05:53:12.865Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=j6e1da1ixv6ewim, id=j6e1da1ixv6ewim
+2024-05-04T05:53:13.160Z - info: Rendering request 64 finished in 306 ms rootId=j6e1da1ixv6ewim, id=j6e1da1ixv6ewim
+2024-05-04T05:54:30.803Z - info: Render request 65 queued for execution and waiting for available worker rootId=v3evnhw0miikjl8, id=v3evnhw0miikjl8
+2024-05-04T05:54:30.807Z - info: Starting rendering request 65 rootId=v3evnhw0miikjl8, id=v3evnhw0miikjl8
+2024-05-04T05:54:30.807Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=v3evnhw0miikjl8, id=v3evnhw0miikjl8
+2024-05-04T05:54:31.129Z - info: Rendering request 65 finished in 325 ms rootId=v3evnhw0miikjl8, id=v3evnhw0miikjl8
+2024-05-04T05:57:18.164Z - info: Render request 66 queued for execution and waiting for available worker rootId=15bjbffeye1o2fy, id=15bjbffeye1o2fy
+2024-05-04T05:57:18.212Z - info: Starting rendering request 66 rootId=15bjbffeye1o2fy, id=15bjbffeye1o2fy
+2024-05-04T05:57:18.213Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=15bjbffeye1o2fy, id=15bjbffeye1o2fy
+2024-05-04T05:57:18.682Z - info: Rendering request 66 finished in 519 ms rootId=15bjbffeye1o2fy, id=15bjbffeye1o2fy
+2024-05-04T05:57:53.994Z - info: Render request 67 queued for execution and waiting for available worker rootId=4lshi65djvls1ze, id=4lshi65djvls1ze
+2024-05-04T05:57:53.997Z - info: Starting rendering request 67 rootId=4lshi65djvls1ze, id=4lshi65djvls1ze
+2024-05-04T05:57:53.997Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=4lshi65djvls1ze, id=4lshi65djvls1ze
+2024-05-04T05:57:54.257Z - info: Rendering request 67 finished in 264 ms rootId=4lshi65djvls1ze, id=4lshi65djvls1ze
+2024-05-04T05:59:30.152Z - info: Render request 68 queued for execution and waiting for available worker rootId=nbqc3z7h6m9eabt, id=nbqc3z7h6m9eabt
+2024-05-04T05:59:30.156Z - info: Starting rendering request 68 rootId=nbqc3z7h6m9eabt, id=nbqc3z7h6m9eabt
+2024-05-04T05:59:30.156Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=nbqc3z7h6m9eabt, id=nbqc3z7h6m9eabt
+2024-05-04T05:59:30.370Z - info: Rendering request 68 finished in 219 ms rootId=nbqc3z7h6m9eabt, id=nbqc3z7h6m9eabt
+2024-05-04T06:00:16.036Z - info: Render request 69 queued for execution and waiting for available worker rootId=kp2bk1498n92tmw, id=kp2bk1498n92tmw
+2024-05-04T06:00:16.044Z - info: Starting rendering request 69 rootId=kp2bk1498n92tmw, id=kp2bk1498n92tmw
+2024-05-04T06:00:16.045Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=kp2bk1498n92tmw, id=kp2bk1498n92tmw
+2024-05-04T06:00:16.285Z - info: Rendering request 69 finished in 250 ms rootId=kp2bk1498n92tmw, id=kp2bk1498n92tmw
+2024-05-04T06:00:31.275Z - info: Render request 70 queued for execution and waiting for available worker rootId=cpibqg8o3vxc1ev, id=cpibqg8o3vxc1ev
+2024-05-04T06:00:31.282Z - info: Starting rendering request 70 rootId=cpibqg8o3vxc1ev, id=cpibqg8o3vxc1ev
+2024-05-04T06:00:31.282Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=cpibqg8o3vxc1ev, id=cpibqg8o3vxc1ev
+2024-05-04T06:00:31.493Z - info: Rendering request 70 finished in 217 ms rootId=cpibqg8o3vxc1ev, id=cpibqg8o3vxc1ev
+2024-05-04T06:00:35.967Z - info: Render request 71 queued for execution and waiting for available worker rootId=xntxidjmxviv8kl, id=xntxidjmxviv8kl
+2024-05-04T06:00:35.974Z - info: Starting rendering request 71 rootId=xntxidjmxviv8kl, id=xntxidjmxviv8kl
+2024-05-04T06:00:35.974Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=xntxidjmxviv8kl, id=xntxidjmxviv8kl
+2024-05-04T06:00:36.198Z - info: Rendering request 71 finished in 230 ms rootId=xntxidjmxviv8kl, id=xntxidjmxviv8kl
+2024-05-04T06:00:50.923Z - info: Render request 72 queued for execution and waiting for available worker rootId=onor0q691lew9af, id=onor0q691lew9af
+2024-05-04T06:00:50.938Z - info: Starting rendering request 72 rootId=onor0q691lew9af, id=onor0q691lew9af
+2024-05-04T06:00:50.938Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=onor0q691lew9af, id=onor0q691lew9af
+2024-05-04T06:00:51.170Z - info: Rendering request 72 finished in 248 ms rootId=onor0q691lew9af, id=onor0q691lew9af
+2024-05-04T06:01:01.775Z - info: Render request 73 queued for execution and waiting for available worker rootId=q0oefhiyv8iufln, id=q0oefhiyv8iufln
+2024-05-04T06:01:01.784Z - info: Starting rendering request 73 rootId=q0oefhiyv8iufln, id=q0oefhiyv8iufln
+2024-05-04T06:01:01.784Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=q0oefhiyv8iufln, id=q0oefhiyv8iufln
+2024-05-04T06:01:02.017Z - info: Rendering request 73 finished in 242 ms rootId=q0oefhiyv8iufln, id=q0oefhiyv8iufln
+2024-05-04T06:01:10.469Z - info: Render request 74 queued for execution and waiting for available worker rootId=aydtgp6gl4iady3, id=aydtgp6gl4iady3
+2024-05-04T06:01:10.477Z - info: Starting rendering request 74 rootId=aydtgp6gl4iady3, id=aydtgp6gl4iady3
+2024-05-04T06:01:10.477Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=aydtgp6gl4iady3, id=aydtgp6gl4iady3
+2024-05-04T06:01:10.784Z - info: Rendering request 74 finished in 316 ms rootId=aydtgp6gl4iady3, id=aydtgp6gl4iady3
+2024-05-04T06:01:40.707Z - info: Render request 75 queued for execution and waiting for available worker rootId=5upgnn9s9djv0gh, id=5upgnn9s9djv0gh
+2024-05-04T06:01:40.712Z - info: Starting rendering request 75 rootId=5upgnn9s9djv0gh, id=5upgnn9s9djv0gh
+2024-05-04T06:01:40.712Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=5upgnn9s9djv0gh, id=5upgnn9s9djv0gh
+2024-05-04T06:01:40.933Z - info: Rendering request 75 finished in 226 ms rootId=5upgnn9s9djv0gh, id=5upgnn9s9djv0gh
+2024-05-04T06:01:48.580Z - info: Render request 76 queued for execution and waiting for available worker rootId=irtskfo1ko5mnsk, id=irtskfo1ko5mnsk
+2024-05-04T06:01:48.585Z - info: Starting rendering request 76 rootId=irtskfo1ko5mnsk, id=irtskfo1ko5mnsk
+2024-05-04T06:01:48.586Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=irtskfo1ko5mnsk, id=irtskfo1ko5mnsk
+2024-05-04T06:01:48.814Z - info: Rendering request 76 finished in 234 ms rootId=irtskfo1ko5mnsk, id=irtskfo1ko5mnsk
+2024-05-04T06:02:02.118Z - info: Render request 77 queued for execution and waiting for available worker rootId=xgi59w9u30si8yo, id=xgi59w9u30si8yo
+2024-05-04T06:02:02.126Z - info: Starting rendering request 77 rootId=xgi59w9u30si8yo, id=xgi59w9u30si8yo
+2024-05-04T06:02:02.126Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=xgi59w9u30si8yo, id=xgi59w9u30si8yo
+2024-05-04T06:02:02.359Z - info: Rendering request 77 finished in 240 ms rootId=xgi59w9u30si8yo, id=xgi59w9u30si8yo
+2024-05-04T06:02:14.773Z - info: Render request 78 queued for execution and waiting for available worker rootId=kuuixu43k8679si, id=kuuixu43k8679si
+2024-05-04T06:02:14.779Z - info: Starting rendering request 78 rootId=kuuixu43k8679si, id=kuuixu43k8679si
+2024-05-04T06:02:14.779Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=kuuixu43k8679si, id=kuuixu43k8679si
+2024-05-04T06:02:14.992Z - info: Rendering request 78 finished in 219 ms rootId=kuuixu43k8679si, id=kuuixu43k8679si
+2024-05-04T06:02:23.273Z - info: Render request 79 queued for execution and waiting for available worker rootId=me61hjyd1lz781x, id=me61hjyd1lz781x
+2024-05-04T06:02:23.280Z - info: Starting rendering request 79 rootId=me61hjyd1lz781x, id=me61hjyd1lz781x
+2024-05-04T06:02:23.281Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=me61hjyd1lz781x, id=me61hjyd1lz781x
+2024-05-04T06:02:23.505Z - info: Rendering request 79 finished in 233 ms rootId=me61hjyd1lz781x, id=me61hjyd1lz781x
+2024-05-04T06:02:29.241Z - info: Render request 80 queued for execution and waiting for available worker rootId=27zo2194sk1gba6, id=27zo2194sk1gba6
+2024-05-04T06:02:29.247Z - info: Starting rendering request 80 rootId=27zo2194sk1gba6, id=27zo2194sk1gba6
+2024-05-04T06:02:29.247Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=27zo2194sk1gba6, id=27zo2194sk1gba6
+2024-05-04T06:02:29.459Z - info: Rendering request 80 finished in 219 ms rootId=27zo2194sk1gba6, id=27zo2194sk1gba6
+2024-05-04T06:02:36.859Z - info: Render request 81 queued for execution and waiting for available worker rootId=hjx0w0w2qx7gvu1, id=hjx0w0w2qx7gvu1
+2024-05-04T06:02:36.865Z - info: Starting rendering request 81 rootId=hjx0w0w2qx7gvu1, id=hjx0w0w2qx7gvu1
+2024-05-04T06:02:36.865Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=hjx0w0w2qx7gvu1, id=hjx0w0w2qx7gvu1
+2024-05-04T06:02:37.093Z - info: Rendering request 81 finished in 233 ms rootId=hjx0w0w2qx7gvu1, id=hjx0w0w2qx7gvu1
+2024-05-04T06:02:41.784Z - info: Render request 82 queued for execution and waiting for available worker rootId=5qi0rrivf2tje65, id=5qi0rrivf2tje65
+2024-05-04T06:02:41.787Z - info: Starting rendering request 82 rootId=5qi0rrivf2tje65, id=5qi0rrivf2tje65
+2024-05-04T06:02:41.788Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=5qi0rrivf2tje65, id=5qi0rrivf2tje65
+2024-05-04T06:02:42.048Z - info: Rendering request 82 finished in 264 ms rootId=5qi0rrivf2tje65, id=5qi0rrivf2tje65
+2024-05-04T06:08:12.418Z - info: Render request 83 queued for execution and waiting for available worker rootId=h419a04fo2u0z2n, id=h419a04fo2u0z2n
+2024-05-04T06:08:12.423Z - info: Starting rendering request 83 rootId=h419a04fo2u0z2n, id=h419a04fo2u0z2n
+2024-05-04T06:08:12.424Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=h419a04fo2u0z2n, id=h419a04fo2u0z2n
+2024-05-04T06:08:12.954Z - info: Rendering request 83 finished in 538 ms rootId=h419a04fo2u0z2n, id=h419a04fo2u0z2n
+2024-05-04T06:08:36.637Z - info: Render request 84 queued for execution and waiting for available worker rootId=x44eqljex93dkhk, id=x44eqljex93dkhk
+2024-05-04T06:08:36.641Z - info: Starting rendering request 84 rootId=x44eqljex93dkhk, id=x44eqljex93dkhk
+2024-05-04T06:08:36.641Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=x44eqljex93dkhk, id=x44eqljex93dkhk
+2024-05-04T06:08:36.865Z - info: Rendering request 84 finished in 227 ms rootId=x44eqljex93dkhk, id=x44eqljex93dkhk
+2024-05-04T06:11:24.907Z - info: Render request 85 queued for execution and waiting for available worker rootId=qcwkxihf403dzcy, id=qcwkxihf403dzcy
+2024-05-04T06:11:24.915Z - info: Starting rendering request 85 rootId=qcwkxihf403dzcy, id=qcwkxihf403dzcy
+2024-05-04T06:11:24.915Z - info: Rendering template { name: main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=qcwkxihf403dzcy, id=qcwkxihf403dzcy
+2024-05-04T06:11:25.374Z - info: Rendering request 85 finished in 468 ms rootId=qcwkxihf403dzcy, id=qcwkxihf403dzcy
