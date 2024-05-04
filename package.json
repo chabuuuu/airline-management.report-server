@@ -1,6 +1,7 @@
 {
   "name": "jsreport-server",
   "dependencies": {
+    "@jsreport/jsreport-cli": "^4.0.4",
     "jsreport": "^4.3.1"
   }
 }
